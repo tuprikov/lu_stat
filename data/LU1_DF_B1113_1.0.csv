@@ -1,0 +1,2425 @@
+﻿DATAFLOW,POPULATION: Population,FREQ: Frequency,TIME_PERIOD: Time period,OBS_VALUE,NOTE_YEAR_2: Note year 2,NOTE_YEAR_1: Note year 1,NOTE_POPULATION_2: Note Population 2,NOTE_POPULATION_1: Note Population 1,OBS_STATUS: Observation status,DECIMALS: Decimals
+LU1:DF_B1113(1.0),SSL21: Portugal,A: Annual,2011-02-01,82363,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL21: Portugal,A: Annual,2012-01-01,85321,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL21: Portugal,A: Annual,2013-01-01,88243,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL21: Portugal,A: Annual,2014-01-01,90764,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL21: Portugal,A: Annual,2015-01-01,92063,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL21: Portugal,A: Annual,2016-01-01,93124,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL21: Portugal,A: Annual,2017-01-01,96779,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL21: Portugal,A: Annual,2018-01-01,96544,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL21: Portugal,A: Annual,2019-01-01,95516,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL21: Portugal,A: Annual,2020-01-01,95057,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL21: Portugal,A: Annual,2021-01-01,94335,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL21: Portugal,A: Annual,2022-01-01,93678,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL38: Moldova,A: Annual,2011-02-01,42,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL38: Moldova,A: Annual,2012-01-01,46,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL38: Moldova,A: Annual,2013-01-01,49,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL38: Moldova,A: Annual,2014-01-01,55,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL38: Moldova,A: Annual,2015-01-01,59,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL38: Moldova,A: Annual,2016-01-01,58,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL38: Moldova,A: Annual,2017-01-01,56,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL38: Moldova,A: Annual,2018-01-01,69,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL38: Moldova,A: Annual,2019-01-01,74,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL38: Moldova,A: Annual,2020-01-01,77,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL38: Moldova,A: Annual,2021-01-01,86,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL38: Moldova,A: Annual,2022-01-01,93,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL006: Algeria,A: Annual,2011-02-01,277,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL006: Algeria,A: Annual,2012-01-01,322,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL006: Algeria,A: Annual,2013-01-01,331,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL006: Algeria,A: Annual,2014-01-01,373,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL006: Algeria,A: Annual,2015-01-01,402,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL006: Algeria,A: Annual,2016-01-01,414,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL006: Algeria,A: Annual,2017-01-01,415,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL006: Algeria,A: Annual,2018-01-01,433,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL006: Algeria,A: Annual,2019-01-01,439,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL006: Algeria,A: Annual,2020-01-01,505,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL006: Algeria,A: Annual,2021-01-01,534,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL006: Algeria,A: Annual,2022-01-01,562,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL010: Burkina Faso,A: Annual,2011-02-01,20,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL010: Burkina Faso,A: Annual,2012-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL010: Burkina Faso,A: Annual,2013-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL010: Burkina Faso,A: Annual,2014-01-01,22,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL010: Burkina Faso,A: Annual,2015-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL010: Burkina Faso,A: Annual,2016-01-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL010: Burkina Faso,A: Annual,2017-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL010: Burkina Faso,A: Annual,2018-01-01,34,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL010: Burkina Faso,A: Annual,2019-01-01,37,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL010: Burkina Faso,A: Annual,2020-01-01,43,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL010: Burkina Faso,A: Annual,2021-01-01,47,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL010: Burkina Faso,A: Annual,2022-01-01,66,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL027: Kenya,A: Annual,2011-02-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL027: Kenya,A: Annual,2012-01-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL027: Kenya,A: Annual,2013-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL027: Kenya,A: Annual,2014-01-01,18,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL027: Kenya,A: Annual,2015-01-01,18,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL027: Kenya,A: Annual,2016-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL027: Kenya,A: Annual,2017-01-01,27,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL027: Kenya,A: Annual,2018-01-01,38,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL027: Kenya,A: Annual,2019-01-01,46,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL027: Kenya,A: Annual,2020-01-01,49,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL027: Kenya,A: Annual,2021-01-01,53,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL027: Kenya,A: Annual,2022-01-01,70,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL044: Rwanda,A: Annual,2011-02-01,39,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL044: Rwanda,A: Annual,2012-01-01,37,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL044: Rwanda,A: Annual,2013-01-01,37,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL044: Rwanda,A: Annual,2014-01-01,39,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL044: Rwanda,A: Annual,2015-01-01,38,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL044: Rwanda,A: Annual,2016-01-01,38,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL044: Rwanda,A: Annual,2017-01-01,41,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL044: Rwanda,A: Annual,2018-01-01,37,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL044: Rwanda,A: Annual,2019-01-01,35,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL044: Rwanda,A: Annual,2020-01-01,46,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL044: Rwanda,A: Annual,2021-01-01,50,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL044: Rwanda,A: Annual,2022-01-01,46,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL68: Saint Lucia,A: Annual,2011-02-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL68: Saint Lucia,A: Annual,2012-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL68: Saint Lucia,A: Annual,2013-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL68: Saint Lucia,A: Annual,2014-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL68: Saint Lucia,A: Annual,2015-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL68: Saint Lucia,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL68: Saint Lucia,A: Annual,2017-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL68: Saint Lucia,A: Annual,2018-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL68: Saint Lucia,A: Annual,2019-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL68: Saint Lucia,A: Annual,2020-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL68: Saint Lucia,A: Annual,2021-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL68: Saint Lucia,A: Annual,2022-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL72: Bolivia,A: Annual,2011-02-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL72: Bolivia,A: Annual,2012-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL72: Bolivia,A: Annual,2013-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL72: Bolivia,A: Annual,2014-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL72: Bolivia,A: Annual,2015-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL72: Bolivia,A: Annual,2016-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL72: Bolivia,A: Annual,2017-01-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL72: Bolivia,A: Annual,2018-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL72: Bolivia,A: Annual,2019-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL72: Bolivia,A: Annual,2020-01-01,27,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL72: Bolivia,A: Annual,2021-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL72: Bolivia,A: Annual,2022-01-01,34,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL074: Georgia,A: Annual,2011-02-01,20,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL074: Georgia,A: Annual,2012-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL074: Georgia,A: Annual,2013-01-01,32,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL074: Georgia,A: Annual,2014-01-01,43,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL074: Georgia,A: Annual,2015-01-01,52,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL074: Georgia,A: Annual,2016-01-01,62,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL074: Georgia,A: Annual,2017-01-01,64,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL074: Georgia,A: Annual,2018-01-01,58,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL074: Georgia,A: Annual,2019-01-01,50,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL074: Georgia,A: Annual,2020-01-01,76,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL074: Georgia,A: Annual,2021-01-01,87,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL074: Georgia,A: Annual,2022-01-01,95,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL078: Irak,A: Annual,2011-02-01,194,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL078: Irak,A: Annual,2012-01-01,210,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL078: Irak,A: Annual,2013-01-01,225,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL078: Irak,A: Annual,2014-01-01,248,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL078: Irak,A: Annual,2015-01-01,261,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL078: Irak,A: Annual,2016-01-01,771,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL078: Irak,A: Annual,2017-01-01,857,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL078: Irak,A: Annual,2018-01-01,898,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL078: Irak,A: Annual,2019-01-01,984,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL078: Irak,A: Annual,2020-01-01,1056,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL078: Irak,A: Annual,2021-01-01,1080,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL078: Irak,A: Annual,2022-01-01,1002,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL095: Qatar,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL095: Qatar,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL095: Qatar,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL095: Qatar,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL095: Qatar,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL095: Qatar,A: Annual,2016-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL095: Qatar,A: Annual,2017-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL095: Qatar,A: Annual,2018-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL095: Qatar,A: Annual,2019-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL095: Qatar,A: Annual,2020-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL095: Qatar,A: Annual,2021-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL095: Qatar,A: Annual,2022-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL112: British overseas,A: Annual,2011-02-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL112: British overseas,A: Annual,2012-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL112: British overseas,A: Annual,2013-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL112: British overseas,A: Annual,2014-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL112: British overseas,A: Annual,2015-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL112: British overseas,A: Annual,2016-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL112: British overseas,A: Annual,2017-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL112: British overseas,A: Annual,2018-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL112: British overseas,A: Annual,2019-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL112: British overseas,A: Annual,2020-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL112: British overseas,A: Annual,2021-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL112: British overseas,A: Annual,2022-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL002: Total foreigners,A: Annual,2011-02-01,220522,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL002: Total foreigners,A: Annual,2012-01-01,229870,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL002: Total foreigners,A: Annual,2013-01-01,238844,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL002: Total foreigners,A: Annual,2014-01-01,248914,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL002: Total foreigners,A: Annual,2015-01-01,258679,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL002: Total foreigners,A: Annual,2016-01-01,269175,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL002: Total foreigners,A: Annual,2017-01-01,281497,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL002: Total foreigners,A: Annual,2018-01-01,288234,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL002: Total foreigners,A: Annual,2019-01-01,291464,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL002: Total foreigners,A: Annual,2020-01-01,296465,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL002: Total foreigners,A: Annual,2021-01-01,299426,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL002: Total foreigners,A: Annual,2022-01-01,304167,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL04: Bulgaria,A: Annual,2011-02-01,734,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL04: Bulgaria,A: Annual,2012-01-01,756,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL04: Bulgaria,A: Annual,2013-01-01,850,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL04: Bulgaria,A: Annual,2014-01-01,904,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL04: Bulgaria,A: Annual,2015-01-01,1066,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL04: Bulgaria,A: Annual,2016-01-01,1224,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL04: Bulgaria,A: Annual,2017-01-01,1487,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL04: Bulgaria,A: Annual,2018-01-01,1596,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL04: Bulgaria,A: Annual,2019-01-01,1726,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL04: Bulgaria,A: Annual,2020-01-01,1841,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL04: Bulgaria,A: Annual,2021-01-01,1924,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL04: Bulgaria,A: Annual,2022-01-01,1969,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL08: Spain,A: Annual,2011-02-01,3657,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL08: Spain,A: Annual,2012-01-01,3972,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL08: Spain,A: Annual,2013-01-01,4290,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL08: Spain,A: Annual,2014-01-01,4686,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL08: Spain,A: Annual,2015-01-01,5067,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL08: Spain,A: Annual,2016-01-01,5521,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL08: Spain,A: Annual,2017-01-01,6120,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL08: Spain,A: Annual,2018-01-01,6545,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL08: Spain,A: Annual,2019-01-01,6801,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL08: Spain,A: Annual,2020-01-01,7202,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL08: Spain,A: Annual,2021-01-01,7651,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL08: Spain,A: Annual,2022-01-01,8388,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL25: Slovakia,A: Annual,2011-02-01,612,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL25: Slovakia,A: Annual,2012-01-01,649,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL25: Slovakia,A: Annual,2013-01-01,679,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL25: Slovakia,A: Annual,2014-01-01,718,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL25: Slovakia,A: Annual,2015-01-01,774,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL25: Slovakia,A: Annual,2016-01-01,831,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL25: Slovakia,A: Annual,2017-01-01,858,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL25: Slovakia,A: Annual,2018-01-01,882,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL25: Slovakia,A: Annual,2019-01-01,950,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL25: Slovakia,A: Annual,2020-01-01,972,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL25: Slovakia,A: Annual,2021-01-01,970,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL25: Slovakia,A: Annual,2022-01-01,993,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL019: State of Eritrea,A: Annual,2011-02-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL019: State of Eritrea,A: Annual,2012-01-01,30,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL019: State of Eritrea,A: Annual,2013-01-01,42,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL019: State of Eritrea,A: Annual,2014-01-01,46,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL019: State of Eritrea,A: Annual,2015-01-01,84,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL019: State of Eritrea,A: Annual,2016-01-01,126,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL019: State of Eritrea,A: Annual,2017-01-01,229,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL019: State of Eritrea,A: Annual,2018-01-01,444,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL019: State of Eritrea,A: Annual,2019-01-01,809,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL019: State of Eritrea,A: Annual,2020-01-01,1233,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL019: State of Eritrea,A: Annual,2021-01-01,1471,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL019: State of Eritrea,A: Annual,2022-01-01,1775,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL023: Ghana,A: Annual,2011-02-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL023: Ghana,A: Annual,2012-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL023: Ghana,A: Annual,2013-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL023: Ghana,A: Annual,2014-01-01,16,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL023: Ghana,A: Annual,2015-01-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL023: Ghana,A: Annual,2016-01-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL023: Ghana,A: Annual,2017-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL023: Ghana,A: Annual,2018-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL023: Ghana,A: Annual,2019-01-01,31,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL023: Ghana,A: Annual,2020-01-01,35,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL023: Ghana,A: Annual,2021-01-01,43,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL023: Ghana,A: Annual,2022-01-01,50,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL040: Nigeria,A: Annual,2011-02-01,72,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL040: Nigeria,A: Annual,2012-01-01,85,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL040: Nigeria,A: Annual,2013-01-01,106,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL040: Nigeria,A: Annual,2014-01-01,153,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL040: Nigeria,A: Annual,2015-01-01,160,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL040: Nigeria,A: Annual,2016-01-01,161,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL040: Nigeria,A: Annual,2017-01-01,256,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL040: Nigeria,A: Annual,2018-01-01,255,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL040: Nigeria,A: Annual,2019-01-01,261,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL040: Nigeria,A: Annual,2020-01-01,299,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL040: Nigeria,A: Annual,2021-01-01,313,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL040: Nigeria,A: Annual,2022-01-01,378,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL057: Zimbabwe,A: Annual,2011-02-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL057: Zimbabwe,A: Annual,2012-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL057: Zimbabwe,A: Annual,2013-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL057: Zimbabwe,A: Annual,2014-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL057: Zimbabwe,A: Annual,2015-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL057: Zimbabwe,A: Annual,2016-01-01,20,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL057: Zimbabwe,A: Annual,2017-01-01,18,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL057: Zimbabwe,A: Annual,2018-01-01,17,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL057: Zimbabwe,A: Annual,2019-01-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL057: Zimbabwe,A: Annual,2020-01-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL057: Zimbabwe,A: Annual,2021-01-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL057: Zimbabwe,A: Annual,2022-01-01,31,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL81: Uruguay,A: Annual,2011-02-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL81: Uruguay,A: Annual,2012-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL81: Uruguay,A: Annual,2013-01-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL81: Uruguay,A: Annual,2014-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL81: Uruguay,A: Annual,2015-01-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL81: Uruguay,A: Annual,2016-01-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL81: Uruguay,A: Annual,2017-01-01,17,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL81: Uruguay,A: Annual,2018-01-01,16,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL81: Uruguay,A: Annual,2019-01-01,16,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL81: Uruguay,A: Annual,2020-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL81: Uruguay,A: Annual,2021-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL81: Uruguay,A: Annual,2022-01-01,30,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL061: Afghanistan,A: Annual,2011-02-01,51,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL061: Afghanistan,A: Annual,2012-01-01,66,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL061: Afghanistan,A: Annual,2013-01-01,75,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL061: Afghanistan,A: Annual,2014-01-01,89,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL061: Afghanistan,A: Annual,2015-01-01,88,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL061: Afghanistan,A: Annual,2016-01-01,284,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL061: Afghanistan,A: Annual,2017-01-01,335,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL061: Afghanistan,A: Annual,2018-01-01,346,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL061: Afghanistan,A: Annual,2019-01-01,466,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL061: Afghanistan,A: Annual,2020-01-01,584,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL061: Afghanistan,A: Annual,2021-01-01,674,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL061: Afghanistan,A: Annual,2022-01-01,761,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL065: Bahrain,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL065: Bahrain,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL065: Bahrain,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL065: Bahrain,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL065: Bahrain,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL065: Bahrain,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL065: Bahrain,A: Annual,2017-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL065: Bahrain,A: Annual,2018-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL065: Bahrain,A: Annual,2019-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL065: Bahrain,A: Annual,2020-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL065: Bahrain,A: Annual,2021-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL065: Bahrain,A: Annual,2022-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL082: Kazakhstan,A: Annual,2011-02-01,30,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL082: Kazakhstan,A: Annual,2012-01-01,33,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL082: Kazakhstan,A: Annual,2013-01-01,30,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL082: Kazakhstan,A: Annual,2014-01-01,40,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL082: Kazakhstan,A: Annual,2015-01-01,38,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL082: Kazakhstan,A: Annual,2016-01-01,32,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL082: Kazakhstan,A: Annual,2017-01-01,42,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL082: Kazakhstan,A: Annual,2018-01-01,50,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL082: Kazakhstan,A: Annual,2019-01-01,62,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL082: Kazakhstan,A: Annual,2020-01-01,97,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL082: Kazakhstan,A: Annual,2021-01-01,108,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL082: Kazakhstan,A: Annual,2022-01-01,125,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL099: Tadjikistan,A: Annual,2011-02-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL099: Tadjikistan,A: Annual,2012-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL099: Tadjikistan,A: Annual,2013-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL099: Tadjikistan,A: Annual,2014-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL099: Tadjikistan,A: Annual,2015-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL099: Tadjikistan,A: Annual,2016-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL099: Tadjikistan,A: Annual,2017-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL099: Tadjikistan,A: Annual,2018-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL099: Tadjikistan,A: Annual,2019-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL099: Tadjikistan,A: Annual,2020-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL099: Tadjikistan,A: Annual,2021-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL099: Tadjikistan,A: Annual,2022-01-01,20,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL09: Estonia,A: Annual,2011-02-01,456,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL09: Estonia,A: Annual,2012-01-01,491,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL09: Estonia,A: Annual,2013-01-01,531,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL09: Estonia,A: Annual,2014-01-01,557,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL09: Estonia,A: Annual,2015-01-01,574,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL09: Estonia,A: Annual,2016-01-01,584,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL09: Estonia,A: Annual,2017-01-01,605,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL09: Estonia,A: Annual,2018-01-01,620,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL09: Estonia,A: Annual,2019-01-01,645,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL09: Estonia,A: Annual,2020-01-01,662,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL09: Estonia,A: Annual,2021-01-01,674,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL09: Estonia,A: Annual,2022-01-01,654,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL30: Yugoslavia,A: Annual,2011-02-01,665,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL30: Yugoslavia,A: Annual,2012-01-01,659,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL30: Yugoslavia,A: Annual,2013-01-01,663,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL30: Yugoslavia,A: Annual,2014-01-01,666,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL30: Yugoslavia,A: Annual,2015-01-01,658,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL30: Yugoslavia,A: Annual,2016-01-01,666,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL30: Yugoslavia,A: Annual,2017-01-01,33,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL30: Yugoslavia,A: Annual,2018-01-01,31,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL30: Yugoslavia,A: Annual,2019-01-01,28,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL30: Yugoslavia,A: Annual,2020-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL30: Yugoslavia,A: Annual,2021-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL30: Yugoslavia,A: Annual,2022-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL018: Egypt,A: Annual,2011-02-01,37,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL018: Egypt,A: Annual,2012-01-01,43,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL018: Egypt,A: Annual,2013-01-01,60,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL018: Egypt,A: Annual,2014-01-01,77,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL018: Egypt,A: Annual,2015-01-01,90,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL018: Egypt,A: Annual,2016-01-01,90,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL018: Egypt,A: Annual,2017-01-01,128,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL018: Egypt,A: Annual,2018-01-01,167,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL018: Egypt,A: Annual,2019-01-01,190,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL018: Egypt,A: Annual,2020-01-01,218,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL018: Egypt,A: Annual,2021-01-01,259,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL018: Egypt,A: Annual,2022-01-01,325,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL032: Malawa,A: Annual,2011-02-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL032: Malawa,A: Annual,2012-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL032: Malawa,A: Annual,2013-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL032: Malawa,A: Annual,2014-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL032: Malawa,A: Annual,2015-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL032: Malawa,A: Annual,2016-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL032: Malawa,A: Annual,2017-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL032: Malawa,A: Annual,2018-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL032: Malawa,A: Annual,2019-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL032: Malawa,A: Annual,2020-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL032: Malawa,A: Annual,2021-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL032: Malawa,A: Annual,2022-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL052: Tanzania,A: Annual,2011-02-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL052: Tanzania,A: Annual,2012-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL052: Tanzania,A: Annual,2013-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL052: Tanzania,A: Annual,2014-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL052: Tanzania,A: Annual,2015-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL052: Tanzania,A: Annual,2016-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL052: Tanzania,A: Annual,2017-01-01,18,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL052: Tanzania,A: Annual,2018-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL052: Tanzania,A: Annual,2019-01-01,18,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL052: Tanzania,A: Annual,2020-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL052: Tanzania,A: Annual,2021-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL052: Tanzania,A: Annual,2022-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL053: Tchad,A: Annual,2011-02-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL053: Tchad,A: Annual,2012-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL053: Tchad,A: Annual,2013-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL053: Tchad,A: Annual,2014-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL053: Tchad,A: Annual,2015-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL053: Tchad,A: Annual,2016-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL053: Tchad,A: Annual,2017-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL053: Tchad,A: Annual,2018-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL053: Tchad,A: Annual,2019-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL053: Tchad,A: Annual,2020-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL053: Tchad,A: Annual,2021-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL053: Tchad,A: Annual,2022-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL64: Nicaragua,A: Annual,2011-02-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL64: Nicaragua,A: Annual,2012-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL64: Nicaragua,A: Annual,2013-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL64: Nicaragua,A: Annual,2014-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL64: Nicaragua,A: Annual,2015-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL64: Nicaragua,A: Annual,2016-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL64: Nicaragua,A: Annual,2017-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL64: Nicaragua,A: Annual,2018-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL64: Nicaragua,A: Annual,2019-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL64: Nicaragua,A: Annual,2020-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL64: Nicaragua,A: Annual,2021-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL64: Nicaragua,A: Annual,2022-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL80: Suriname,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL80: Suriname,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL80: Suriname,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL80: Suriname,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL80: Suriname,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL80: Suriname,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL80: Suriname,A: Annual,2017-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL80: Suriname,A: Annual,2018-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL80: Suriname,A: Annual,2019-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL80: Suriname,A: Annual,2020-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL80: Suriname,A: Annual,2021-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL80: Suriname,A: Annual,2022-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL086: Lebanon,A: Annual,2011-02-01,48,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL086: Lebanon,A: Annual,2012-01-01,56,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL086: Lebanon,A: Annual,2013-01-01,62,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL086: Lebanon,A: Annual,2014-01-01,72,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL086: Lebanon,A: Annual,2015-01-01,76,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL086: Lebanon,A: Annual,2016-01-01,86,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL086: Lebanon,A: Annual,2017-01-01,72,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL086: Lebanon,A: Annual,2018-01-01,89,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL086: Lebanon,A: Annual,2019-01-01,91,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL086: Lebanon,A: Annual,2020-01-01,126,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL086: Lebanon,A: Annual,2021-01-01,185,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL086: Lebanon,A: Annual,2022-01-01,301,,,,,,0: Zero
+LU1:DF_B1113(1.0),L06: AUSTRALIA AND OCEANIA,A: Annual,2011-02-01,187,,,,,,0: Zero
+LU1:DF_B1113(1.0),L06: AUSTRALIA AND OCEANIA,A: Annual,2012-01-01,200,,,,,,0: Zero
+LU1:DF_B1113(1.0),L06: AUSTRALIA AND OCEANIA,A: Annual,2013-01-01,188,,,,,,0: Zero
+LU1:DF_B1113(1.0),L06: AUSTRALIA AND OCEANIA,A: Annual,2014-01-01,211,,,,,,0: Zero
+LU1:DF_B1113(1.0),L06: AUSTRALIA AND OCEANIA,A: Annual,2015-01-01,211,,,,,,0: Zero
+LU1:DF_B1113(1.0),L06: AUSTRALIA AND OCEANIA,A: Annual,2016-01-01,217,,,,,,0: Zero
+LU1:DF_B1113(1.0),L06: AUSTRALIA AND OCEANIA,A: Annual,2017-01-01,193,,,,,,0: Zero
+LU1:DF_B1113(1.0),L06: AUSTRALIA AND OCEANIA,A: Annual,2018-01-01,223,,,,,,0: Zero
+LU1:DF_B1113(1.0),L06: AUSTRALIA AND OCEANIA,A: Annual,2019-01-01,207,,,,,,0: Zero
+LU1:DF_B1113(1.0),L06: AUSTRALIA AND OCEANIA,A: Annual,2020-01-01,200,,,,,,0: Zero
+LU1:DF_B1113(1.0),L06: AUSTRALIA AND OCEANIA,A: Annual,2021-01-01,221,,,,,,0: Zero
+LU1:DF_B1113(1.0),L06: AUSTRALIA AND OCEANIA,A: Annual,2022-01-01,244,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL107: Solomon Islands,A: Annual,2011-02-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL107: Solomon Islands,A: Annual,2012-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL107: Solomon Islands,A: Annual,2013-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL107: Solomon Islands,A: Annual,2014-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL107: Solomon Islands,A: Annual,2015-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL107: Solomon Islands,A: Annual,2016-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL107: Solomon Islands,A: Annual,2017-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL107: Solomon Islands,A: Annual,2018-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL107: Solomon Islands,A: Annual,2019-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL107: Solomon Islands,A: Annual,2020-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL107: Solomon Islands,A: Annual,2021-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL107: Solomon Islands,A: Annual,2022-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL17: Lithuania,A: Annual,2011-02-01,530,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL17: Lithuania,A: Annual,2012-01-01,599,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL17: Lithuania,A: Annual,2013-01-01,638,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL17: Lithuania,A: Annual,2014-01-01,673,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL17: Lithuania,A: Annual,2015-01-01,747,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL17: Lithuania,A: Annual,2016-01-01,874,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL17: Lithuania,A: Annual,2017-01-01,898,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL17: Lithuania,A: Annual,2018-01-01,934,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL17: Lithuania,A: Annual,2019-01-01,1007,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL17: Lithuania,A: Annual,2020-01-01,1103,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL17: Lithuania,A: Annual,2021-01-01,1167,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL17: Lithuania,A: Annual,2022-01-01,1189,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL011: Burundi,A: Annual,2011-02-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL011: Burundi,A: Annual,2012-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL011: Burundi,A: Annual,2013-01-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL011: Burundi,A: Annual,2014-01-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL011: Burundi,A: Annual,2015-01-01,27,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL011: Burundi,A: Annual,2016-01-01,27,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL011: Burundi,A: Annual,2017-01-01,35,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL011: Burundi,A: Annual,2018-01-01,33,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL011: Burundi,A: Annual,2019-01-01,29,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL011: Burundi,A: Annual,2020-01-01,31,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL011: Burundi,A: Annual,2021-01-01,27,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL011: Burundi,A: Annual,2022-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL031: Madagascar,A: Annual,2011-02-01,33,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL031: Madagascar,A: Annual,2012-01-01,32,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL031: Madagascar,A: Annual,2013-01-01,32,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL031: Madagascar,A: Annual,2014-01-01,34,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL031: Madagascar,A: Annual,2015-01-01,42,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL031: Madagascar,A: Annual,2016-01-01,47,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL031: Madagascar,A: Annual,2017-01-01,48,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL031: Madagascar,A: Annual,2018-01-01,54,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL031: Madagascar,A: Annual,2019-01-01,59,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL031: Madagascar,A: Annual,2020-01-01,72,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL031: Madagascar,A: Annual,2021-01-01,87,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL031: Madagascar,A: Annual,2022-01-01,106,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL039: Niger,A: Annual,2011-02-01,129,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL039: Niger,A: Annual,2012-01-01,130,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL039: Niger,A: Annual,2013-01-01,130,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL039: Niger,A: Annual,2014-01-01,132,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL039: Niger,A: Annual,2015-01-01,134,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL039: Niger,A: Annual,2016-01-01,134,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL039: Niger,A: Annual,2017-01-01,16,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL039: Niger,A: Annual,2018-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL039: Niger,A: Annual,2019-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL039: Niger,A: Annual,2020-01-01,28,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL039: Niger,A: Annual,2021-01-01,27,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL039: Niger,A: Annual,2022-01-01,30,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL045: São Tomé e Príncipe,A: Annual,2011-02-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL045: São Tomé e Príncipe,A: Annual,2012-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL045: São Tomé e Príncipe,A: Annual,2013-01-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL045: São Tomé e Príncipe,A: Annual,2014-01-01,20,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL045: São Tomé e Príncipe,A: Annual,2015-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL045: São Tomé e Príncipe,A: Annual,2016-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL045: São Tomé e Príncipe,A: Annual,2017-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL045: São Tomé e Príncipe,A: Annual,2018-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL045: São Tomé e Príncipe,A: Annual,2019-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL045: São Tomé e Príncipe,A: Annual,2020-01-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL045: São Tomé e Príncipe,A: Annual,2021-01-01,30,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL045: São Tomé e Príncipe,A: Annual,2022-01-01,32,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL51: Bahamas,A: Annual,2011-02-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL51: Bahamas,A: Annual,2012-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL51: Bahamas,A: Annual,2013-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL51: Bahamas,A: Annual,2014-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL51: Bahamas,A: Annual,2015-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL51: Bahamas,A: Annual,2016-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL51: Bahamas,A: Annual,2017-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL51: Bahamas,A: Annual,2018-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL51: Bahamas,A: Annual,2019-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL51: Bahamas,A: Annual,2020-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL51: Bahamas,A: Annual,2021-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL51: Bahamas,A: Annual,2022-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL59: Guatemala,A: Annual,2011-02-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL59: Guatemala,A: Annual,2012-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL59: Guatemala,A: Annual,2013-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL59: Guatemala,A: Annual,2014-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL59: Guatemala,A: Annual,2015-01-01,18,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL59: Guatemala,A: Annual,2016-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL59: Guatemala,A: Annual,2017-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL59: Guatemala,A: Annual,2018-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL59: Guatemala,A: Annual,2019-01-01,22,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL59: Guatemala,A: Annual,2020-01-01,27,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL59: Guatemala,A: Annual,2021-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL59: Guatemala,A: Annual,2022-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),L05: ASIA,A: Annual,2011-02-01,4954,,,,,,0: Zero
+LU1:DF_B1113(1.0),L05: ASIA,A: Annual,2012-01-01,5450,,,,,,0: Zero
+LU1:DF_B1113(1.0),L05: ASIA,A: Annual,2013-01-01,5964,,,,,,0: Zero
+LU1:DF_B1113(1.0),L05: ASIA,A: Annual,2014-01-01,6760,,,,,,0: Zero
+LU1:DF_B1113(1.0),L05: ASIA,A: Annual,2015-01-01,7537,,,,,,0: Zero
+LU1:DF_B1113(1.0),L05: ASIA,A: Annual,2016-01-01,9820,,,,,,0: Zero
+LU1:DF_B1113(1.0),L05: ASIA,A: Annual,2017-01-01,11164,,,,,,0: Zero
+LU1:DF_B1113(1.0),L05: ASIA,A: Annual,2018-01-01,12941,,,,,,0: Zero
+LU1:DF_B1113(1.0),L05: ASIA,A: Annual,2019-01-01,14449,,,,,,0: Zero
+LU1:DF_B1113(1.0),L05: ASIA,A: Annual,2020-01-01,16273,,,,,,0: Zero
+LU1:DF_B1113(1.0),L05: ASIA,A: Annual,2021-01-01,17519,,,,,,0: Zero
+LU1:DF_B1113(1.0),L05: ASIA,A: Annual,2022-01-01,19066,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL066: Bangladesh,A: Annual,2011-02-01,56,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL066: Bangladesh,A: Annual,2012-01-01,64,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL066: Bangladesh,A: Annual,2013-01-01,63,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL066: Bangladesh,A: Annual,2014-01-01,65,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL066: Bangladesh,A: Annual,2015-01-01,73,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL066: Bangladesh,A: Annual,2016-01-01,83,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL066: Bangladesh,A: Annual,2017-01-01,92,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL066: Bangladesh,A: Annual,2018-01-01,93,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL066: Bangladesh,A: Annual,2019-01-01,107,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL066: Bangladesh,A: Annual,2020-01-01,114,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL066: Bangladesh,A: Annual,2021-01-01,127,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL066: Bangladesh,A: Annual,2022-01-01,140,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL073: United Arab Emirates,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL073: United Arab Emirates,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL073: United Arab Emirates,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL073: United Arab Emirates,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL073: United Arab Emirates,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL073: United Arab Emirates,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL073: United Arab Emirates,A: Annual,2017-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL073: United Arab Emirates,A: Annual,2018-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL073: United Arab Emirates,A: Annual,2019-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL073: United Arab Emirates,A: Annual,2020-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL073: United Arab Emirates,A: Annual,2021-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL073: United Arab Emirates,A: Annual,2022-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL087: Malaysia,A: Annual,2011-02-01,46,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL087: Malaysia,A: Annual,2012-01-01,53,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL087: Malaysia,A: Annual,2013-01-01,54,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL087: Malaysia,A: Annual,2014-01-01,57,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL087: Malaysia,A: Annual,2015-01-01,58,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL087: Malaysia,A: Annual,2016-01-01,60,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL087: Malaysia,A: Annual,2017-01-01,64,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL087: Malaysia,A: Annual,2018-01-01,80,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL087: Malaysia,A: Annual,2019-01-01,71,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL087: Malaysia,A: Annual,2020-01-01,67,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL087: Malaysia,A: Annual,2021-01-01,68,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL087: Malaysia,A: Annual,2022-01-01,75,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL094: Philippines,A: Annual,2011-02-01,289,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL094: Philippines,A: Annual,2012-01-01,297,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL094: Philippines,A: Annual,2013-01-01,306,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL094: Philippines,A: Annual,2014-01-01,324,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL094: Philippines,A: Annual,2015-01-01,354,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL094: Philippines,A: Annual,2016-01-01,385,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL094: Philippines,A: Annual,2017-01-01,429,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL094: Philippines,A: Annual,2018-01-01,491,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL094: Philippines,A: Annual,2019-01-01,577,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL094: Philippines,A: Annual,2020-01-01,665,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL094: Philippines,A: Annual,2021-01-01,721,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL094: Philippines,A: Annual,2022-01-01,761,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL108: French Polynesia,A: Annual,2011-02-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL108: French Polynesia,A: Annual,2012-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL108: French Polynesia,A: Annual,2013-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL108: French Polynesia,A: Annual,2014-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL108: French Polynesia,A: Annual,2015-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL108: French Polynesia,A: Annual,2016-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL108: French Polynesia,A: Annual,2017-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL108: French Polynesia,A: Annual,2018-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL108: French Polynesia,A: Annual,2019-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL108: French Polynesia,A: Annual,2020-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL108: French Polynesia,A: Annual,2021-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL108: French Polynesia,A: Annual,2022-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL18: Malta,A: Annual,2011-02-01,225,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL18: Malta,A: Annual,2012-01-01,230,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL18: Malta,A: Annual,2013-01-01,242,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL18: Malta,A: Annual,2014-01-01,229,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL18: Malta,A: Annual,2015-01-01,242,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL18: Malta,A: Annual,2016-01-01,256,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL18: Malta,A: Annual,2017-01-01,272,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL18: Malta,A: Annual,2018-01-01,281,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL18: Malta,A: Annual,2019-01-01,272,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL18: Malta,A: Annual,2020-01-01,286,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL18: Malta,A: Annual,2021-01-01,313,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL18: Malta,A: Annual,2022-01-01,306,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL33: Bosnia and Herzegovina,A: Annual,2011-02-01,2261,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL33: Bosnia and Herzegovina,A: Annual,2012-01-01,2191,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL33: Bosnia and Herzegovina,A: Annual,2013-01-01,2303,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL33: Bosnia and Herzegovina,A: Annual,2014-01-01,2269,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL33: Bosnia and Herzegovina,A: Annual,2015-01-01,2310,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL33: Bosnia and Herzegovina,A: Annual,2016-01-01,2156,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL33: Bosnia and Herzegovina,A: Annual,2017-01-01,2168,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL33: Bosnia and Herzegovina,A: Annual,2018-01-01,2036,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL33: Bosnia and Herzegovina,A: Annual,2019-01-01,1622,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL33: Bosnia and Herzegovina,A: Annual,2020-01-01,1509,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL33: Bosnia and Herzegovina,A: Annual,2021-01-01,1508,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL33: Bosnia and Herzegovina,A: Annual,2022-01-01,1561,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL35: Iceland,A: Annual,2011-02-01,453,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL35: Iceland,A: Annual,2012-01-01,440,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL35: Iceland,A: Annual,2013-01-01,445,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL35: Iceland,A: Annual,2014-01-01,429,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL35: Iceland,A: Annual,2015-01-01,420,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL35: Iceland,A: Annual,2016-01-01,403,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL35: Iceland,A: Annual,2017-01-01,428,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL35: Iceland,A: Annual,2018-01-01,425,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL35: Iceland,A: Annual,2019-01-01,376,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL35: Iceland,A: Annual,2020-01-01,331,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL35: Iceland,A: Annual,2021-01-01,321,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL35: Iceland,A: Annual,2022-01-01,312,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL37: Liechtenstein,A: Annual,2011-02-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL37: Liechtenstein,A: Annual,2012-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL37: Liechtenstein,A: Annual,2013-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL37: Liechtenstein,A: Annual,2014-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL37: Liechtenstein,A: Annual,2015-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL37: Liechtenstein,A: Annual,2016-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL37: Liechtenstein,A: Annual,2017-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL37: Liechtenstein,A: Annual,2018-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL37: Liechtenstein,A: Annual,2019-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL37: Liechtenstein,A: Annual,2020-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL37: Liechtenstein,A: Annual,2021-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL37: Liechtenstein,A: Annual,2022-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL007: Angola,A: Annual,2011-02-01,85,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL007: Angola,A: Annual,2012-01-01,87,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL007: Angola,A: Annual,2013-01-01,91,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL007: Angola,A: Annual,2014-01-01,89,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL007: Angola,A: Annual,2015-01-01,92,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL007: Angola,A: Annual,2016-01-01,97,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL007: Angola,A: Annual,2017-01-01,67,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL007: Angola,A: Annual,2018-01-01,61,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL007: Angola,A: Annual,2019-01-01,64,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL007: Angola,A: Annual,2020-01-01,62,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL007: Angola,A: Annual,2021-01-01,62,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL007: Angola,A: Annual,2022-01-01,60,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL022: Gambia,A: Annual,2011-02-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL022: Gambia,A: Annual,2012-01-01,27,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL022: Gambia,A: Annual,2013-01-01,38,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL022: Gambia,A: Annual,2014-01-01,41,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL022: Gambia,A: Annual,2015-01-01,44,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL022: Gambia,A: Annual,2016-01-01,48,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL022: Gambia,A: Annual,2017-01-01,47,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL022: Gambia,A: Annual,2018-01-01,51,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL022: Gambia,A: Annual,2019-01-01,54,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL022: Gambia,A: Annual,2020-01-01,57,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL022: Gambia,A: Annual,2021-01-01,55,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL022: Gambia,A: Annual,2022-01-01,68,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL024: Guinea,A: Annual,2011-02-01,55,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL024: Guinea,A: Annual,2012-01-01,62,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL024: Guinea,A: Annual,2013-01-01,77,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL024: Guinea,A: Annual,2014-01-01,82,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL024: Guinea,A: Annual,2015-01-01,105,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL024: Guinea,A: Annual,2016-01-01,122,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL024: Guinea,A: Annual,2017-01-01,153,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL024: Guinea,A: Annual,2018-01-01,177,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL024: Guinea,A: Annual,2019-01-01,220,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL024: Guinea,A: Annual,2020-01-01,257,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL024: Guinea,A: Annual,2021-01-01,312,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL024: Guinea,A: Annual,2022-01-01,399,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL060: South America,A: Annual,2011-02-01,1681,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL060: South America,A: Annual,2012-01-01,1839,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL060: South America,A: Annual,2013-01-01,1964,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL060: South America,A: Annual,2014-01-01,2193,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL060: South America,A: Annual,2015-01-01,2336,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL060: South America,A: Annual,2016-01-01,2489,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL060: South America,A: Annual,2017-01-01,2516,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL060: South America,A: Annual,2018-01-01,2736,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL060: South America,A: Annual,2019-01-01,3001,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL060: South America,A: Annual,2020-01-01,3396,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL060: South America,A: Annual,2021-01-01,3666,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL060: South America,A: Annual,2022-01-01,4070,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL73: Brazil,A: Annual,2011-02-01,1203,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL73: Brazil,A: Annual,2012-01-01,1297,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL73: Brazil,A: Annual,2013-01-01,1384,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL73: Brazil,A: Annual,2014-01-01,1571,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL73: Brazil,A: Annual,2015-01-01,1684,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL73: Brazil,A: Annual,2016-01-01,1784,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL73: Brazil,A: Annual,2017-01-01,1823,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL73: Brazil,A: Annual,2018-01-01,1999,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL73: Brazil,A: Annual,2019-01-01,2205,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL73: Brazil,A: Annual,2020-01-01,2449,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL73: Brazil,A: Annual,2021-01-01,2604,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL73: Brazil,A: Annual,2022-01-01,2853,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL062: Saudi Arabia,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL062: Saudi Arabia,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL062: Saudi Arabia,A: Annual,2013-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL062: Saudi Arabia,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL062: Saudi Arabia,A: Annual,2015-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL062: Saudi Arabia,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL062: Saudi Arabia,A: Annual,2017-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL062: Saudi Arabia,A: Annual,2018-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL062: Saudi Arabia,A: Annual,2019-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL062: Saudi Arabia,A: Annual,2020-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL062: Saudi Arabia,A: Annual,2021-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL062: Saudi Arabia,A: Annual,2022-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL077: Iran,A: Annual,2011-02-01,290,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL077: Iran,A: Annual,2012-01-01,300,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL077: Iran,A: Annual,2013-01-01,322,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL077: Iran,A: Annual,2014-01-01,333,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL077: Iran,A: Annual,2015-01-01,337,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL077: Iran,A: Annual,2016-01-01,392,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL077: Iran,A: Annual,2017-01-01,424,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL077: Iran,A: Annual,2018-01-01,439,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL077: Iran,A: Annual,2019-01-01,454,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL077: Iran,A: Annual,2020-01-01,501,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL077: Iran,A: Annual,2021-01-01,548,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL077: Iran,A: Annual,2022-01-01,607,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL079: Israel,A: Annual,2011-02-01,91,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL079: Israel,A: Annual,2012-01-01,95,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL079: Israel,A: Annual,2013-01-01,113,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL079: Israel,A: Annual,2014-01-01,140,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL079: Israel,A: Annual,2015-01-01,142,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL079: Israel,A: Annual,2016-01-01,140,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL079: Israel,A: Annual,2017-01-01,129,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL079: Israel,A: Annual,2018-01-01,133,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL079: Israel,A: Annual,2019-01-01,132,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL079: Israel,A: Annual,2020-01-01,118,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL079: Israel,A: Annual,2021-01-01,113,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL079: Israel,A: Annual,2022-01-01,104,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL05: Cyprus,A: Annual,2011-02-01,63,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL05: Cyprus,A: Annual,2012-01-01,73,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL05: Cyprus,A: Annual,2013-01-01,81,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL05: Cyprus,A: Annual,2014-01-01,89,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL05: Cyprus,A: Annual,2015-01-01,106,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL05: Cyprus,A: Annual,2016-01-01,117,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL05: Cyprus,A: Annual,2017-01-01,151,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL05: Cyprus,A: Annual,2018-01-01,166,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL05: Cyprus,A: Annual,2019-01-01,167,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL05: Cyprus,A: Annual,2020-01-01,184,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL05: Cyprus,A: Annual,2021-01-01,191,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL05: Cyprus,A: Annual,2022-01-01,205,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL22: Czech Republic,A: Annual,2011-02-01,760,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL22: Czech Republic,A: Annual,2012-01-01,830,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL22: Czech Republic,A: Annual,2013-01-01,871,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL22: Czech Republic,A: Annual,2014-01-01,902,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL22: Czech Republic,A: Annual,2015-01-01,946,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL22: Czech Republic,A: Annual,2016-01-01,997,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL22: Czech Republic,A: Annual,2017-01-01,1024,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL22: Czech Republic,A: Annual,2018-01-01,1089,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL22: Czech Republic,A: Annual,2019-01-01,1130,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL22: Czech Republic,A: Annual,2020-01-01,1126,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL22: Czech Republic,A: Annual,2021-01-01,1113,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL22: Czech Republic,A: Annual,2022-01-01,1096,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL46: Ukraine,A: Annual,2011-02-01,427,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL46: Ukraine,A: Annual,2012-01-01,452,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL46: Ukraine,A: Annual,2013-01-01,443,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL46: Ukraine,A: Annual,2014-01-01,470,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL46: Ukraine,A: Annual,2015-01-01,545,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL46: Ukraine,A: Annual,2016-01-01,653,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL46: Ukraine,A: Annual,2017-01-01,742,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL46: Ukraine,A: Annual,2018-01-01,841,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL46: Ukraine,A: Annual,2019-01-01,912,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL46: Ukraine,A: Annual,2020-01-01,980,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL46: Ukraine,A: Annual,2021-01-01,1007,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL46: Ukraine,A: Annual,2022-01-01,1075,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL005: South Africa,A: Annual,2011-02-01,155,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL005: South Africa,A: Annual,2012-01-01,173,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL005: South Africa,A: Annual,2013-01-01,183,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL005: South Africa,A: Annual,2014-01-01,183,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL005: South Africa,A: Annual,2015-01-01,178,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL005: South Africa,A: Annual,2016-01-01,187,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL005: South Africa,A: Annual,2017-01-01,184,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL005: South Africa,A: Annual,2018-01-01,217,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL005: South Africa,A: Annual,2019-01-01,250,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL005: South Africa,A: Annual,2020-01-01,318,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL005: South Africa,A: Annual,2021-01-01,366,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL005: South Africa,A: Annual,2022-01-01,422,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL009: Botswana,A: Annual,2011-02-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL009: Botswana,A: Annual,2012-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL009: Botswana,A: Annual,2013-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL009: Botswana,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL009: Botswana,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL009: Botswana,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL009: Botswana,A: Annual,2017-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL009: Botswana,A: Annual,2018-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL009: Botswana,A: Annual,2019-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL009: Botswana,A: Annual,2020-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL009: Botswana,A: Annual,2021-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL009: Botswana,A: Annual,2022-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL020: Ethiopia,A: Annual,2011-02-01,67,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL020: Ethiopia,A: Annual,2012-01-01,73,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL020: Ethiopia,A: Annual,2013-01-01,79,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL020: Ethiopia,A: Annual,2014-01-01,80,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL020: Ethiopia,A: Annual,2015-01-01,99,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL020: Ethiopia,A: Annual,2016-01-01,116,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL020: Ethiopia,A: Annual,2017-01-01,126,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL020: Ethiopia,A: Annual,2018-01-01,132,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL020: Ethiopia,A: Annual,2019-01-01,152,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL020: Ethiopia,A: Annual,2020-01-01,158,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL020: Ethiopia,A: Annual,2021-01-01,155,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL020: Ethiopia,A: Annual,2022-01-01,182,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL037: Mozambique,A: Annual,2011-02-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL037: Mozambique,A: Annual,2012-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL037: Mozambique,A: Annual,2013-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL037: Mozambique,A: Annual,2014-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL037: Mozambique,A: Annual,2015-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL037: Mozambique,A: Annual,2016-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL037: Mozambique,A: Annual,2017-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL037: Mozambique,A: Annual,2018-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL037: Mozambique,A: Annual,2019-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL037: Mozambique,A: Annual,2020-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL037: Mozambique,A: Annual,2021-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL037: Mozambique,A: Annual,2022-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL047: Seychelles,A: Annual,2011-02-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL047: Seychelles,A: Annual,2012-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL047: Seychelles,A: Annual,2013-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL047: Seychelles,A: Annual,2014-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL047: Seychelles,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL047: Seychelles,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL047: Seychelles,A: Annual,2017-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL047: Seychelles,A: Annual,2018-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL047: Seychelles,A: Annual,2019-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL047: Seychelles,A: Annual,2020-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL047: Seychelles,A: Annual,2021-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL047: Seychelles,A: Annual,2022-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL50: Antigua and Barbuda,A: Annual,2011-02-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL50: Antigua and Barbuda,A: Annual,2012-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL50: Antigua and Barbuda,A: Annual,2013-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL50: Antigua and Barbuda,A: Annual,2014-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL50: Antigua and Barbuda,A: Annual,2015-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL50: Antigua and Barbuda,A: Annual,2016-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL50: Antigua and Barbuda,A: Annual,2017-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL50: Antigua and Barbuda,A: Annual,2018-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL50: Antigua and Barbuda,A: Annual,2019-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL50: Antigua and Barbuda,A: Annual,2020-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL50: Antigua and Barbuda,A: Annual,2021-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL50: Antigua and Barbuda,A: Annual,2022-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL60: Haiti,A: Annual,2011-02-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL60: Haiti,A: Annual,2012-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL60: Haiti,A: Annual,2013-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL60: Haiti,A: Annual,2014-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL60: Haiti,A: Annual,2015-01-01,29,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL60: Haiti,A: Annual,2016-01-01,31,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL60: Haiti,A: Annual,2017-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL60: Haiti,A: Annual,2018-01-01,20,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL60: Haiti,A: Annual,2019-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL60: Haiti,A: Annual,2020-01-01,17,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL60: Haiti,A: Annual,2021-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL60: Haiti,A: Annual,2022-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL77: Guyana,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL77: Guyana,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL77: Guyana,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL77: Guyana,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL77: Guyana,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL77: Guyana,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL77: Guyana,A: Annual,2017-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL77: Guyana,A: Annual,2018-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL77: Guyana,A: Annual,2019-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL77: Guyana,A: Annual,2020-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL77: Guyana,A: Annual,2021-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL77: Guyana,A: Annual,2022-01-01,,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL064: Azerbaijan,A: Annual,2011-02-01,27,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL064: Azerbaijan,A: Annual,2012-01-01,46,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL064: Azerbaijan,A: Annual,2013-01-01,62,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL064: Azerbaijan,A: Annual,2014-01-01,75,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL064: Azerbaijan,A: Annual,2015-01-01,74,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL064: Azerbaijan,A: Annual,2016-01-01,86,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL064: Azerbaijan,A: Annual,2017-01-01,106,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL064: Azerbaijan,A: Annual,2018-01-01,147,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL064: Azerbaijan,A: Annual,2019-01-01,163,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL064: Azerbaijan,A: Annual,2020-01-01,203,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL064: Azerbaijan,A: Annual,2021-01-01,207,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL064: Azerbaijan,A: Annual,2022-01-01,236,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL075: India,A: Annual,2011-02-01,569,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL075: India,A: Annual,2012-01-01,688,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL075: India,A: Annual,2013-01-01,783,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL075: India,A: Annual,2014-01-01,846,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL075: India,A: Annual,2015-01-01,963,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL075: India,A: Annual,2016-01-01,1210,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL075: India,A: Annual,2017-01-01,1411,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL075: India,A: Annual,2018-01-01,1872,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL075: India,A: Annual,2019-01-01,2331,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL075: India,A: Annual,2020-01-01,2804,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL075: India,A: Annual,2021-01-01,3125,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL075: India,A: Annual,2022-01-01,3777,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL092: Pakistan,A: Annual,2011-02-01,45,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL092: Pakistan,A: Annual,2012-01-01,57,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL092: Pakistan,A: Annual,2013-01-01,72,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL092: Pakistan,A: Annual,2014-01-01,85,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL092: Pakistan,A: Annual,2015-01-01,91,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL092: Pakistan,A: Annual,2016-01-01,102,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL092: Pakistan,A: Annual,2017-01-01,144,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL092: Pakistan,A: Annual,2018-01-01,146,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL092: Pakistan,A: Annual,2019-01-01,181,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL092: Pakistan,A: Annual,2020-01-01,206,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL092: Pakistan,A: Annual,2021-01-01,268,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL092: Pakistan,A: Annual,2022-01-01,334,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL07: Danmark,A: Annual,2011-02-01,1964,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL07: Danmark,A: Annual,2012-01-01,1926,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL07: Danmark,A: Annual,2013-01-01,1953,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL07: Danmark,A: Annual,2014-01-01,2019,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL07: Danmark,A: Annual,2015-01-01,2008,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL07: Danmark,A: Annual,2016-01-01,1959,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL07: Danmark,A: Annual,2017-01-01,1965,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL07: Danmark,A: Annual,2018-01-01,1859,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL07: Danmark,A: Annual,2019-01-01,1763,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL07: Danmark,A: Annual,2020-01-01,1612,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL07: Danmark,A: Annual,2021-01-01,1542,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL07: Danmark,A: Annual,2022-01-01,1462,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL47: Soviet Union,A: Annual,2011-02-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL47: Soviet Union,A: Annual,2012-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL47: Soviet Union,A: Annual,2013-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL47: Soviet Union,A: Annual,2014-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL47: Soviet Union,A: Annual,2015-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL47: Soviet Union,A: Annual,2016-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL47: Soviet Union,A: Annual,2017-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL47: Soviet Union,A: Annual,2018-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL47: Soviet Union,A: Annual,2019-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL47: Soviet Union,A: Annual,2020-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL47: Soviet Union,A: Annual,2021-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL47: Soviet Union,A: Annual,2022-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL034: Morocco,A: Annual,2011-02-01,524,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL034: Morocco,A: Annual,2012-01-01,564,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL034: Morocco,A: Annual,2013-01-01,616,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL034: Morocco,A: Annual,2014-01-01,673,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL034: Morocco,A: Annual,2015-01-01,733,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL034: Morocco,A: Annual,2016-01-01,830,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL034: Morocco,A: Annual,2017-01-01,873,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL034: Morocco,A: Annual,2018-01-01,1009,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL034: Morocco,A: Annual,2019-01-01,1121,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL034: Morocco,A: Annual,2020-01-01,1360,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL034: Morocco,A: Annual,2021-01-01,1484,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL034: Morocco,A: Annual,2022-01-01,1616,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL036: Mauritania,A: Annual,2011-02-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL036: Mauritania,A: Annual,2012-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL036: Mauritania,A: Annual,2013-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL036: Mauritania,A: Annual,2014-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL036: Mauritania,A: Annual,2015-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL036: Mauritania,A: Annual,2016-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL036: Mauritania,A: Annual,2017-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL036: Mauritania,A: Annual,2018-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL036: Mauritania,A: Annual,2019-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL036: Mauritania,A: Annual,2020-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL036: Mauritania,A: Annual,2021-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL036: Mauritania,A: Annual,2022-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL048: Sierra Leone,A: Annual,2011-02-01,16,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL048: Sierra Leone,A: Annual,2012-01-01,17,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL048: Sierra Leone,A: Annual,2013-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL048: Sierra Leone,A: Annual,2014-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL048: Sierra Leone,A: Annual,2015-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL048: Sierra Leone,A: Annual,2016-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL048: Sierra Leone,A: Annual,2017-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL048: Sierra Leone,A: Annual,2018-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL048: Sierra Leone,A: Annual,2019-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL048: Sierra Leone,A: Annual,2020-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL048: Sierra Leone,A: Annual,2021-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL048: Sierra Leone,A: Annual,2022-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL050: Sudan,A: Annual,2011-02-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL050: Sudan,A: Annual,2012-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL050: Sudan,A: Annual,2013-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL050: Sudan,A: Annual,2014-01-01,16,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL050: Sudan,A: Annual,2015-01-01,17,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL050: Sudan,A: Annual,2016-01-01,18,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL050: Sudan,A: Annual,2017-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL050: Sudan,A: Annual,2018-01-01,34,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL050: Sudan,A: Annual,2019-01-01,84,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL050: Sudan,A: Annual,2020-01-01,106,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL050: Sudan,A: Annual,2021-01-01,111,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL050: Sudan,A: Annual,2022-01-01,131,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL61: Honduras,A: Annual,2011-02-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL61: Honduras,A: Annual,2012-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL61: Honduras,A: Annual,2013-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL61: Honduras,A: Annual,2014-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL61: Honduras,A: Annual,2015-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL61: Honduras,A: Annual,2016-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL61: Honduras,A: Annual,2017-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL61: Honduras,A: Annual,2018-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL61: Honduras,A: Annual,2019-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL61: Honduras,A: Annual,2020-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL61: Honduras,A: Annual,2021-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL61: Honduras,A: Annual,2022-01-01,17,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL62: Jamaica,A: Annual,2011-02-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL62: Jamaica,A: Annual,2012-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL62: Jamaica,A: Annual,2013-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL62: Jamaica,A: Annual,2014-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL62: Jamaica,A: Annual,2015-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL62: Jamaica,A: Annual,2016-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL62: Jamaica,A: Annual,2017-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL62: Jamaica,A: Annual,2018-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL62: Jamaica,A: Annual,2019-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL62: Jamaica,A: Annual,2020-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL62: Jamaica,A: Annual,2021-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL62: Jamaica,A: Annual,2022-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL63: Mexico,A: Annual,2011-02-01,128,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL63: Mexico,A: Annual,2012-01-01,137,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL63: Mexico,A: Annual,2013-01-01,142,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL63: Mexico,A: Annual,2014-01-01,160,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL63: Mexico,A: Annual,2015-01-01,173,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL63: Mexico,A: Annual,2016-01-01,205,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL63: Mexico,A: Annual,2017-01-01,229,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL63: Mexico,A: Annual,2018-01-01,239,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL63: Mexico,A: Annual,2019-01-01,253,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL63: Mexico,A: Annual,2020-01-01,281,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL63: Mexico,A: Annual,2021-01-01,300,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL63: Mexico,A: Annual,2022-01-01,358,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL103: Turkey,A: Annual,2011-02-01,366,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL103: Turkey,A: Annual,2012-01-01,423,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL103: Turkey,A: Annual,2013-01-01,487,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL103: Turkey,A: Annual,2014-01-01,521,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL103: Turkey,A: Annual,2015-01-01,541,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL103: Turkey,A: Annual,2016-01-01,595,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL103: Turkey,A: Annual,2017-01-01,656,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL103: Turkey,A: Annual,2018-01-01,815,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL103: Turkey,A: Annual,2019-01-01,962,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL103: Turkey,A: Annual,2020-01-01,1105,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL103: Turkey,A: Annual,2021-01-01,1246,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL103: Turkey,A: Annual,2022-01-01,1375,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL104: Vietnam,A: Annual,2011-02-01,96,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL104: Vietnam,A: Annual,2012-01-01,105,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL104: Vietnam,A: Annual,2013-01-01,113,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL104: Vietnam,A: Annual,2014-01-01,126,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL104: Vietnam,A: Annual,2015-01-01,128,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL104: Vietnam,A: Annual,2016-01-01,140,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL104: Vietnam,A: Annual,2017-01-01,158,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL104: Vietnam,A: Annual,2018-01-01,156,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL104: Vietnam,A: Annual,2019-01-01,148,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL104: Vietnam,A: Annual,2020-01-01,163,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL104: Vietnam,A: Annual,2021-01-01,181,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL104: Vietnam,A: Annual,2022-01-01,196,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL105: Yemen,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL105: Yemen,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL105: Yemen,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL105: Yemen,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL105: Yemen,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL105: Yemen,A: Annual,2016-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL105: Yemen,A: Annual,2017-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL105: Yemen,A: Annual,2018-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL105: Yemen,A: Annual,2019-01-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL105: Yemen,A: Annual,2020-01-01,28,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL105: Yemen,A: Annual,2021-01-01,35,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL105: Yemen,A: Annual,2022-01-01,47,,,,,,0: Zero
+LU1:DF_B1113(1.0),L01: TOTAL POPULATION,A: Annual,2011-02-01,512353,,,"L01: Break in series: as from 2011 Source: STATEC, as from 2017 Source: STATEC and CTIE",,,0: Zero
+LU1:DF_B1113(1.0),L01: TOTAL POPULATION,A: Annual,2012-01-01,524853,,,"L01: Break in series: as from 2011 Source: STATEC, as from 2017 Source: STATEC and CTIE",,,0: Zero
+LU1:DF_B1113(1.0),L01: TOTAL POPULATION,A: Annual,2013-01-01,537039,,,"L01: Break in series: as from 2011 Source: STATEC, as from 2017 Source: STATEC and CTIE",,,0: Zero
+LU1:DF_B1113(1.0),L01: TOTAL POPULATION,A: Annual,2014-01-01,549680,,,"L01: Break in series: as from 2011 Source: STATEC, as from 2017 Source: STATEC and CTIE",,,0: Zero
+LU1:DF_B1113(1.0),L01: TOTAL POPULATION,A: Annual,2015-01-01,562958,,,"L01: Break in series: as from 2011 Source: STATEC, as from 2017 Source: STATEC and CTIE",,,0: Zero
+LU1:DF_B1113(1.0),L01: TOTAL POPULATION,A: Annual,2016-01-01,576249,,,"L01: Break in series: as from 2011 Source: STATEC, as from 2017 Source: STATEC and CTIE",,,0: Zero
+LU1:DF_B1113(1.0),L01: TOTAL POPULATION,A: Annual,2017-01-01,590667,,,"L01: Break in series: as from 2011 Source: STATEC, as from 2017 Source: STATEC and CTIE",,,0: Zero
+LU1:DF_B1113(1.0),L01: TOTAL POPULATION,A: Annual,2018-01-01,602005,,,"L01: Break in series: as from 2011 Source: STATEC, as from 2017 Source: STATEC and CTIE",,,0: Zero
+LU1:DF_B1113(1.0),L01: TOTAL POPULATION,A: Annual,2019-01-01,613894,,,"L01: Break in series: as from 2011 Source: STATEC, as from 2017 Source: STATEC and CTIE",,,0: Zero
+LU1:DF_B1113(1.0),L01: TOTAL POPULATION,A: Annual,2020-01-01,626108,,,"L01: Break in series: as from 2011 Source: STATEC, as from 2017 Source: STATEC and CTIE",,,0: Zero
+LU1:DF_B1113(1.0),L01: TOTAL POPULATION,A: Annual,2021-01-01,634730,,,"L01: Break in series: as from 2011 Source: STATEC, as from 2017 Source: STATEC and CTIE",,,0: Zero
+LU1:DF_B1113(1.0),L01: TOTAL POPULATION,A: Annual,2022-01-01,645397,,,"L01: Break in series: as from 2011 Source: STATEC, as from 2017 Source: STATEC and CTIE",,,0: Zero
+LU1:DF_B1113(1.0),L02: EUROPE,A: Annual,2011-02-01,205743,,,,,,0: Zero
+LU1:DF_B1113(1.0),L02: EUROPE,A: Annual,2012-01-01,213768,,,,,,0: Zero
+LU1:DF_B1113(1.0),L02: EUROPE,A: Annual,2013-01-01,221351,,,,,,0: Zero
+LU1:DF_B1113(1.0),L02: EUROPE,A: Annual,2014-01-01,229423,,,,,,0: Zero
+LU1:DF_B1113(1.0),L02: EUROPE,A: Annual,2015-01-01,237424,,,,,,0: Zero
+LU1:DF_B1113(1.0),L02: EUROPE,A: Annual,2016-01-01,244715,,,,,,0: Zero
+LU1:DF_B1113(1.0),L02: EUROPE,A: Annual,2017-01-01,255690,,,,,,0: Zero
+LU1:DF_B1113(1.0),L02: EUROPE,A: Annual,2018-01-01,259511,,,,,,0: Zero
+LU1:DF_B1113(1.0),L02: EUROPE,A: Annual,2019-01-01,259943,,,,,,0: Zero
+LU1:DF_B1113(1.0),L02: EUROPE,A: Annual,2020-01-01,261124,,,,,,0: Zero
+LU1:DF_B1113(1.0),L02: EUROPE,A: Annual,2021-01-01,261675,,,,,,0: Zero
+LU1:DF_B1113(1.0),L02: EUROPE,A: Annual,2022-01-01,263128,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL06: Croatia,A: Annual,2011-02-01,362,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL06: Croatia,A: Annual,2012-01-01,378,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL06: Croatia,A: Annual,2013-01-01,439,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL06: Croatia,A: Annual,2014-01-01,493,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL06: Croatia,A: Annual,2015-01-01,607,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL06: Croatia,A: Annual,2016-01-01,703,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL06: Croatia,A: Annual,2017-01-01,915,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL06: Croatia,A: Annual,2018-01-01,1010,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL06: Croatia,A: Annual,2019-01-01,1118,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL06: Croatia,A: Annual,2020-01-01,1268,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL06: Croatia,A: Annual,2021-01-01,1358,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL06: Croatia,A: Annual,2022-01-01,1421,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL20: Poland,A: Annual,2011-02-01,2709,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL20: Poland,A: Annual,2012-01-01,2995,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL20: Poland,A: Annual,2013-01-01,3219,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL20: Poland,A: Annual,2014-01-01,3432,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL20: Poland,A: Annual,2015-01-01,3783,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL20: Poland,A: Annual,2016-01-01,4070,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL20: Poland,A: Annual,2017-01-01,4304,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL20: Poland,A: Annual,2018-01-01,4489,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL20: Poland,A: Annual,2019-01-01,4708,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL20: Poland,A: Annual,2020-01-01,4844,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL20: Poland,A: Annual,2021-01-01,4941,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL20: Poland,A: Annual,2022-01-01,5020,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL34: Russian Federation,A: Annual,2011-02-01,930,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL34: Russian Federation,A: Annual,2012-01-01,1000,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL34: Russian Federation,A: Annual,2013-01-01,1062,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL34: Russian Federation,A: Annual,2014-01-01,1200,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL34: Russian Federation,A: Annual,2015-01-01,1327,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL34: Russian Federation,A: Annual,2016-01-01,1469,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL34: Russian Federation,A: Annual,2017-01-01,1462,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL34: Russian Federation,A: Annual,2018-01-01,1631,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL34: Russian Federation,A: Annual,2019-01-01,1782,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL34: Russian Federation,A: Annual,2020-01-01,1857,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL34: Russian Federation,A: Annual,2021-01-01,1906,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL34: Russian Federation,A: Annual,2022-01-01,1951,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL021: Gabon,A: Annual,2011-02-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL021: Gabon,A: Annual,2012-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL021: Gabon,A: Annual,2013-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL021: Gabon,A: Annual,2014-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL021: Gabon,A: Annual,2015-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL021: Gabon,A: Annual,2016-01-01,17,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL021: Gabon,A: Annual,2017-01-01,34,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL021: Gabon,A: Annual,2018-01-01,34,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL021: Gabon,A: Annual,2019-01-01,40,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL021: Gabon,A: Annual,2020-01-01,46,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL021: Gabon,A: Annual,2021-01-01,52,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL021: Gabon,A: Annual,2022-01-01,50,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL035: Mauritius,A: Annual,2011-02-01,141,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL035: Mauritius,A: Annual,2012-01-01,143,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL035: Mauritius,A: Annual,2013-01-01,146,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL035: Mauritius,A: Annual,2014-01-01,157,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL035: Mauritius,A: Annual,2015-01-01,164,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL035: Mauritius,A: Annual,2016-01-01,188,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL035: Mauritius,A: Annual,2017-01-01,226,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL035: Mauritius,A: Annual,2018-01-01,250,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL035: Mauritius,A: Annual,2019-01-01,339,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL035: Mauritius,A: Annual,2020-01-01,434,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL035: Mauritius,A: Annual,2021-01-01,484,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL035: Mauritius,A: Annual,2022-01-01,558,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL049: Somalia,A: Annual,2011-02-01,40,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL049: Somalia,A: Annual,2012-01-01,38,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL049: Somalia,A: Annual,2013-01-01,48,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL049: Somalia,A: Annual,2014-01-01,54,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL049: Somalia,A: Annual,2015-01-01,59,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL049: Somalia,A: Annual,2016-01-01,66,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL049: Somalia,A: Annual,2017-01-01,65,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL049: Somalia,A: Annual,2018-01-01,65,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL049: Somalia,A: Annual,2019-01-01,67,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL049: Somalia,A: Annual,2020-01-01,102,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL049: Somalia,A: Annual,2021-01-01,121,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL049: Somalia,A: Annual,2022-01-01,125,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL48: United States of Ameria,A: Annual,2011-02-01,1295,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL48: United States of Ameria,A: Annual,2012-01-01,1434,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL48: United States of Ameria,A: Annual,2013-01-01,1696,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL48: United States of Ameria,A: Annual,2014-01-01,1935,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL48: United States of Ameria,A: Annual,2015-01-01,2200,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL48: United States of Ameria,A: Annual,2016-01-01,2279,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL48: United States of Ameria,A: Annual,2017-01-01,1968,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL48: United States of Ameria,A: Annual,2018-01-01,2103,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL48: United States of Ameria,A: Annual,2019-01-01,2180,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL48: United States of Ameria,A: Annual,2020-01-01,2334,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL48: United States of Ameria,A: Annual,2021-01-01,2176,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL48: United States of Ameria,A: Annual,2022-01-01,2170,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL75: Colombia,A: Annual,2011-02-01,71,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL75: Colombia,A: Annual,2012-01-01,79,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL75: Colombia,A: Annual,2013-01-01,96,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL75: Colombia,A: Annual,2014-01-01,116,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL75: Colombia,A: Annual,2015-01-01,132,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL75: Colombia,A: Annual,2016-01-01,143,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL75: Colombia,A: Annual,2017-01-01,138,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL75: Colombia,A: Annual,2018-01-01,171,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL75: Colombia,A: Annual,2019-01-01,203,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL75: Colombia,A: Annual,2020-01-01,254,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL75: Colombia,A: Annual,2021-01-01,283,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL75: Colombia,A: Annual,2022-01-01,333,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL76: Ecuador,A: Annual,2011-02-01,74,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL76: Ecuador,A: Annual,2012-01-01,78,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL76: Ecuador,A: Annual,2013-01-01,76,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL76: Ecuador,A: Annual,2014-01-01,86,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL76: Ecuador,A: Annual,2015-01-01,89,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL76: Ecuador,A: Annual,2016-01-01,89,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL76: Ecuador,A: Annual,2017-01-01,82,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL76: Ecuador,A: Annual,2018-01-01,83,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL76: Ecuador,A: Annual,2019-01-01,87,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL76: Ecuador,A: Annual,2020-01-01,89,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL76: Ecuador,A: Annual,2021-01-01,87,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL76: Ecuador,A: Annual,2022-01-01,92,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL063: Armenia,A: Annual,2011-02-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL063: Armenia,A: Annual,2012-01-01,22,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL063: Armenia,A: Annual,2013-01-01,32,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL063: Armenia,A: Annual,2014-01-01,41,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL063: Armenia,A: Annual,2015-01-01,48,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL063: Armenia,A: Annual,2016-01-01,58,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL063: Armenia,A: Annual,2017-01-01,67,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL063: Armenia,A: Annual,2018-01-01,83,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL063: Armenia,A: Annual,2019-01-01,92,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL063: Armenia,A: Annual,2020-01-01,105,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL063: Armenia,A: Annual,2021-01-01,109,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL063: Armenia,A: Annual,2022-01-01,133,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL090: Nepal,A: Annual,2011-02-01,141,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL090: Nepal,A: Annual,2012-01-01,150,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL090: Nepal,A: Annual,2013-01-01,165,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL090: Nepal,A: Annual,2014-01-01,195,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL090: Nepal,A: Annual,2015-01-01,217,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL090: Nepal,A: Annual,2016-01-01,263,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL090: Nepal,A: Annual,2017-01-01,288,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL090: Nepal,A: Annual,2018-01-01,330,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL090: Nepal,A: Annual,2019-01-01,362,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL090: Nepal,A: Annual,2020-01-01,376,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL090: Nepal,A: Annual,2021-01-01,369,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL090: Nepal,A: Annual,2022-01-01,390,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL091: Uzbekistan,A: Annual,2011-02-01,22,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL091: Uzbekistan,A: Annual,2012-01-01,22,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL091: Uzbekistan,A: Annual,2013-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL091: Uzbekistan,A: Annual,2014-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL091: Uzbekistan,A: Annual,2015-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL091: Uzbekistan,A: Annual,2016-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL091: Uzbekistan,A: Annual,2017-01-01,27,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL091: Uzbekistan,A: Annual,2018-01-01,31,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL091: Uzbekistan,A: Annual,2019-01-01,37,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL091: Uzbekistan,A: Annual,2020-01-01,46,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL091: Uzbekistan,A: Annual,2021-01-01,39,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL091: Uzbekistan,A: Annual,2022-01-01,41,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL02: Austria,A: Annual,2011-02-01,756,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL02: Austria,A: Annual,2012-01-01,780,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL02: Austria,A: Annual,2013-01-01,795,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL02: Austria,A: Annual,2014-01-01,807,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL02: Austria,A: Annual,2015-01-01,856,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL02: Austria,A: Annual,2016-01-01,873,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL02: Austria,A: Annual,2017-01-01,905,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL02: Austria,A: Annual,2018-01-01,919,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL02: Austria,A: Annual,2019-01-01,936,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL02: Austria,A: Annual,2020-01-01,962,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL02: Austria,A: Annual,2021-01-01,945,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL02: Austria,A: Annual,2022-01-01,993,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL19: Netherlands,A: Annual,2011-02-01,3891,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL19: Netherlands,A: Annual,2012-01-01,3938,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL19: Netherlands,A: Annual,2013-01-01,3889,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL19: Netherlands,A: Annual,2014-01-01,3972,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL19: Netherlands,A: Annual,2015-01-01,3994,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL19: Netherlands,A: Annual,2016-01-01,4033,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL19: Netherlands,A: Annual,2017-01-01,4252,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL19: Netherlands,A: Annual,2018-01-01,4294,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL19: Netherlands,A: Annual,2019-01-01,4207,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL19: Netherlands,A: Annual,2020-01-01,4168,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL19: Netherlands,A: Annual,2021-01-01,4127,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL19: Netherlands,A: Annual,2022-01-01,4069,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL36: Kosovo,A: Annual,2011-02-01,1324,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL36: Kosovo,A: Annual,2012-01-01,1377,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL36: Kosovo,A: Annual,2013-01-01,1491,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL36: Kosovo,A: Annual,2014-01-01,1600,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL36: Kosovo,A: Annual,2015-01-01,1554,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL36: Kosovo,A: Annual,2016-01-01,1507,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL36: Kosovo,A: Annual,2017-01-01,1664,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL36: Kosovo,A: Annual,2018-01-01,1532,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL36: Kosovo,A: Annual,2019-01-01,1434,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL36: Kosovo,A: Annual,2020-01-01,1291,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL36: Kosovo,A: Annual,2021-01-01,1171,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL36: Kosovo,A: Annual,2022-01-01,1203,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL40: Montenegro,A: Annual,2011-02-01,3814,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL40: Montenegro,A: Annual,2012-01-01,3782,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL40: Montenegro,A: Annual,2013-01-01,3862,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL40: Montenegro,A: Annual,2014-01-01,3898,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL40: Montenegro,A: Annual,2015-01-01,3917,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL40: Montenegro,A: Annual,2016-01-01,3818,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL40: Montenegro,A: Annual,2017-01-01,4410,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL40: Montenegro,A: Annual,2018-01-01,4197,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL40: Montenegro,A: Annual,2019-01-01,3589,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL40: Montenegro,A: Annual,2020-01-01,3163,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL40: Montenegro,A: Annual,2021-01-01,2944,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL40: Montenegro,A: Annual,2022-01-01,2855,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL008: Benin,A: Annual,2011-02-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL008: Benin,A: Annual,2012-01-01,30,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL008: Benin,A: Annual,2013-01-01,37,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL008: Benin,A: Annual,2014-01-01,39,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL008: Benin,A: Annual,2015-01-01,39,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL008: Benin,A: Annual,2016-01-01,40,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL008: Benin,A: Annual,2017-01-01,44,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL008: Benin,A: Annual,2018-01-01,56,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL008: Benin,A: Annual,2019-01-01,71,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL008: Benin,A: Annual,2020-01-01,81,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL008: Benin,A: Annual,2021-01-01,89,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL008: Benin,A: Annual,2022-01-01,96,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL025: Guinea-Bissau,A: Annual,2011-02-01,55,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL025: Guinea-Bissau,A: Annual,2012-01-01,83,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL025: Guinea-Bissau,A: Annual,2013-01-01,117,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL025: Guinea-Bissau,A: Annual,2014-01-01,149,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL025: Guinea-Bissau,A: Annual,2015-01-01,183,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL025: Guinea-Bissau,A: Annual,2016-01-01,213,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL025: Guinea-Bissau,A: Annual,2017-01-01,235,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL025: Guinea-Bissau,A: Annual,2018-01-01,261,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL025: Guinea-Bissau,A: Annual,2019-01-01,281,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL025: Guinea-Bissau,A: Annual,2020-01-01,340,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL025: Guinea-Bissau,A: Annual,2021-01-01,394,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL025: Guinea-Bissau,A: Annual,2022-01-01,431,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL029: Liberia,A: Annual,2011-02-01,27,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL029: Liberia,A: Annual,2012-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL029: Liberia,A: Annual,2013-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL029: Liberia,A: Annual,2014-01-01,28,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL029: Liberia,A: Annual,2015-01-01,32,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL029: Liberia,A: Annual,2016-01-01,30,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL029: Liberia,A: Annual,2017-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL029: Liberia,A: Annual,2018-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL029: Liberia,A: Annual,2019-01-01,20,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL029: Liberia,A: Annual,2020-01-01,20,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL029: Liberia,A: Annual,2021-01-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL029: Liberia,A: Annual,2022-01-01,20,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL059: Central America,A: Annual,2011-02-01,465,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL059: Central America,A: Annual,2012-01-01,504,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL059: Central America,A: Annual,2013-01-01,536,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL059: Central America,A: Annual,2014-01-01,580,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL059: Central America,A: Annual,2015-01-01,601,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL059: Central America,A: Annual,2016-01-01,669,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL059: Central America,A: Annual,2017-01-01,696,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL059: Central America,A: Annual,2018-01-01,718,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL059: Central America,A: Annual,2019-01-01,728,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL059: Central America,A: Annual,2020-01-01,796,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL059: Central America,A: Annual,2021-01-01,848,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL059: Central America,A: Annual,2022-01-01,906,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL70: Trinidad and Tobago,A: Annual,2011-02-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL70: Trinidad and Tobago,A: Annual,2012-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL70: Trinidad and Tobago,A: Annual,2013-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL70: Trinidad and Tobago,A: Annual,2014-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL70: Trinidad and Tobago,A: Annual,2015-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL70: Trinidad and Tobago,A: Annual,2016-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL70: Trinidad and Tobago,A: Annual,2017-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL70: Trinidad and Tobago,A: Annual,2018-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL70: Trinidad and Tobago,A: Annual,2019-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL70: Trinidad and Tobago,A: Annual,2020-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL70: Trinidad and Tobago,A: Annual,2021-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL70: Trinidad and Tobago,A: Annual,2022-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL076: Indonesia,A: Annual,2011-02-01,32,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL076: Indonesia,A: Annual,2012-01-01,33,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL076: Indonesia,A: Annual,2013-01-01,31,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL076: Indonesia,A: Annual,2014-01-01,33,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL076: Indonesia,A: Annual,2015-01-01,44,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL076: Indonesia,A: Annual,2016-01-01,48,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL076: Indonesia,A: Annual,2017-01-01,65,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL076: Indonesia,A: Annual,2018-01-01,69,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL076: Indonesia,A: Annual,2019-01-01,69,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL076: Indonesia,A: Annual,2020-01-01,77,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL076: Indonesia,A: Annual,2021-01-01,79,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL076: Indonesia,A: Annual,2022-01-01,87,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL093: Palestine,A: Annual,2011-02-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL093: Palestine,A: Annual,2012-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL093: Palestine,A: Annual,2013-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL093: Palestine,A: Annual,2014-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL093: Palestine,A: Annual,2015-01-01,16,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL093: Palestine,A: Annual,2016-01-01,17,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL093: Palestine,A: Annual,2017-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL093: Palestine,A: Annual,2018-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL093: Palestine,A: Annual,2019-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL093: Palestine,A: Annual,2020-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL093: Palestine,A: Annual,2021-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL093: Palestine,A: Annual,2022-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL097: Sri Lanka,A: Annual,2011-02-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL097: Sri Lanka,A: Annual,2012-01-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL097: Sri Lanka,A: Annual,2013-01-01,28,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL097: Sri Lanka,A: Annual,2014-01-01,37,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL097: Sri Lanka,A: Annual,2015-01-01,39,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL097: Sri Lanka,A: Annual,2016-01-01,43,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL097: Sri Lanka,A: Annual,2017-01-01,42,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL097: Sri Lanka,A: Annual,2018-01-01,42,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL097: Sri Lanka,A: Annual,2019-01-01,44,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL097: Sri Lanka,A: Annual,2020-01-01,51,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL097: Sri Lanka,A: Annual,2021-01-01,56,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL097: Sri Lanka,A: Annual,2022-01-01,59,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL15: Italy,A: Annual,2011-02-01,18059,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL15: Italy,A: Annual,2012-01-01,18117,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL15: Italy,A: Annual,2013-01-01,18344,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL15: Italy,A: Annual,2014-01-01,18773,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL15: Italy,A: Annual,2015-01-01,19524,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL15: Italy,A: Annual,2016-01-01,20276,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL15: Italy,A: Annual,2017-01-01,21345,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL15: Italy,A: Annual,2018-01-01,21962,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL15: Italy,A: Annual,2019-01-01,22465,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL15: Italy,A: Annual,2020-01-01,22996,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL15: Italy,A: Annual,2021-01-01,23532,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL15: Italy,A: Annual,2022-01-01,24116,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL32: Belarus,A: Annual,2011-02-01,138,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL32: Belarus,A: Annual,2012-01-01,144,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL32: Belarus,A: Annual,2013-01-01,147,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL32: Belarus,A: Annual,2014-01-01,160,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL32: Belarus,A: Annual,2015-01-01,155,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL32: Belarus,A: Annual,2016-01-01,158,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL32: Belarus,A: Annual,2017-01-01,183,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL32: Belarus,A: Annual,2018-01-01,195,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL32: Belarus,A: Annual,2019-01-01,199,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL32: Belarus,A: Annual,2020-01-01,216,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL32: Belarus,A: Annual,2021-01-01,219,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL32: Belarus,A: Annual,2022-01-01,217,,,,,,0: Zero
+LU1:DF_B1113(1.0),L03: AFRICA,A: Annual,2011-02-01,5565,,,,,,0: Zero
+LU1:DF_B1113(1.0),L03: AFRICA,A: Annual,2012-01-01,5994,,,,,,0: Zero
+LU1:DF_B1113(1.0),L03: AFRICA,A: Annual,2013-01-01,6440,,,,,,0: Zero
+LU1:DF_B1113(1.0),L03: AFRICA,A: Annual,2014-01-01,6999,,,,,,0: Zero
+LU1:DF_B1113(1.0),L03: AFRICA,A: Annual,2015-01-01,7526,,,,,,0: Zero
+LU1:DF_B1113(1.0),L03: AFRICA,A: Annual,2016-01-01,8075,,,,,,0: Zero
+LU1:DF_B1113(1.0),L03: AFRICA,A: Annual,2017-01-01,8321,,,,,,0: Zero
+LU1:DF_B1113(1.0),L03: AFRICA,A: Annual,2018-01-01,9049,,,,,,0: Zero
+LU1:DF_B1113(1.0),L03: AFRICA,A: Annual,2019-01-01,10013,,,,,,0: Zero
+LU1:DF_B1113(1.0),L03: AFRICA,A: Annual,2020-01-01,11411,,,,,,0: Zero
+LU1:DF_B1113(1.0),L03: AFRICA,A: Annual,2021-01-01,12367,,,,,,0: Zero
+LU1:DF_B1113(1.0),L03: AFRICA,A: Annual,2022-01-01,13668,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL012: Cameroon,A: Annual,2011-02-01,294,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL012: Cameroon,A: Annual,2012-01-01,347,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL012: Cameroon,A: Annual,2013-01-01,366,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL012: Cameroon,A: Annual,2014-01-01,382,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL012: Cameroon,A: Annual,2015-01-01,417,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL012: Cameroon,A: Annual,2016-01-01,468,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL012: Cameroon,A: Annual,2017-01-01,480,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL012: Cameroon,A: Annual,2018-01-01,551,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL012: Cameroon,A: Annual,2019-01-01,641,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL012: Cameroon,A: Annual,2020-01-01,659,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL012: Cameroon,A: Annual,2021-01-01,737,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL012: Cameroon,A: Annual,2022-01-01,871,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL016: Ivory Coast,A: Annual,2011-02-01,83,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL016: Ivory Coast,A: Annual,2012-01-01,95,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL016: Ivory Coast,A: Annual,2013-01-01,108,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL016: Ivory Coast,A: Annual,2014-01-01,124,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL016: Ivory Coast,A: Annual,2015-01-01,136,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL016: Ivory Coast,A: Annual,2016-01-01,146,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL016: Ivory Coast,A: Annual,2017-01-01,157,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL016: Ivory Coast,A: Annual,2018-01-01,181,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL016: Ivory Coast,A: Annual,2019-01-01,201,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL016: Ivory Coast,A: Annual,2020-01-01,234,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL016: Ivory Coast,A: Annual,2021-01-01,237,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL016: Ivory Coast,A: Annual,2022-01-01,271,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL49: Canada,A: Annual,2011-02-01,376,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL49: Canada,A: Annual,2012-01-01,407,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL49: Canada,A: Annual,2013-01-01,408,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL49: Canada,A: Annual,2014-01-01,474,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL49: Canada,A: Annual,2015-01-01,503,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL49: Canada,A: Annual,2016-01-01,538,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL49: Canada,A: Annual,2017-01-01,526,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL49: Canada,A: Annual,2018-01-01,544,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL49: Canada,A: Annual,2019-01-01,550,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL49: Canada,A: Annual,2020-01-01,544,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL49: Canada,A: Annual,2021-01-01,574,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL49: Canada,A: Annual,2022-01-01,561,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL53: Belize,A: Annual,2011-02-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL53: Belize,A: Annual,2012-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL53: Belize,A: Annual,2013-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL53: Belize,A: Annual,2014-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL53: Belize,A: Annual,2015-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL53: Belize,A: Annual,2016-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL53: Belize,A: Annual,2017-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL53: Belize,A: Annual,2018-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL53: Belize,A: Annual,2019-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL53: Belize,A: Annual,2020-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL53: Belize,A: Annual,2021-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL53: Belize,A: Annual,2022-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL57: El Salvador,A: Annual,2011-02-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL57: El Salvador,A: Annual,2012-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL57: El Salvador,A: Annual,2013-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL57: El Salvador,A: Annual,2014-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL57: El Salvador,A: Annual,2015-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL57: El Salvador,A: Annual,2016-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL57: El Salvador,A: Annual,2017-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL57: El Salvador,A: Annual,2018-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL57: El Salvador,A: Annual,2019-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL57: El Salvador,A: Annual,2020-01-01,22,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL57: El Salvador,A: Annual,2021-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL57: El Salvador,A: Annual,2022-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL74: Chile,A: Annual,2011-02-01,62,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL74: Chile,A: Annual,2012-01-01,62,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL74: Chile,A: Annual,2013-01-01,58,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL74: Chile,A: Annual,2014-01-01,61,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL74: Chile,A: Annual,2015-01-01,59,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL74: Chile,A: Annual,2016-01-01,59,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL74: Chile,A: Annual,2017-01-01,66,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL74: Chile,A: Annual,2018-01-01,67,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL74: Chile,A: Annual,2019-01-01,68,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL74: Chile,A: Annual,2020-01-01,71,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL74: Chile,A: Annual,2021-01-01,78,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL74: Chile,A: Annual,2022-01-01,100,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL089: Mongolia,A: Annual,2011-02-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL089: Mongolia,A: Annual,2012-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL089: Mongolia,A: Annual,2013-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL089: Mongolia,A: Annual,2014-01-01,17,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL089: Mongolia,A: Annual,2015-01-01,22,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL089: Mongolia,A: Annual,2016-01-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL089: Mongolia,A: Annual,2017-01-01,36,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL089: Mongolia,A: Annual,2018-01-01,36,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL089: Mongolia,A: Annual,2019-01-01,39,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL089: Mongolia,A: Annual,2020-01-01,36,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL089: Mongolia,A: Annual,2021-01-01,37,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL089: Mongolia,A: Annual,2022-01-01,37,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL106: Australia,A: Annual,2011-02-01,136,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL106: Australia,A: Annual,2012-01-01,144,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL106: Australia,A: Annual,2013-01-01,139,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL106: Australia,A: Annual,2014-01-01,158,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL106: Australia,A: Annual,2015-01-01,155,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL106: Australia,A: Annual,2016-01-01,159,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL106: Australia,A: Annual,2017-01-01,140,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL106: Australia,A: Annual,2018-01-01,163,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL106: Australia,A: Annual,2019-01-01,150,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL106: Australia,A: Annual,2020-01-01,148,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL106: Australia,A: Annual,2021-01-01,165,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL106: Australia,A: Annual,2022-01-01,188,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL110: Samoa,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL110: Samoa,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL110: Samoa,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL110: Samoa,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL110: Samoa,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL110: Samoa,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL110: Samoa,A: Annual,2017-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL110: Samoa,A: Annual,2018-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL110: Samoa,A: Annual,2019-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL110: Samoa,A: Annual,2020-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL110: Samoa,A: Annual,2021-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL110: Samoa,A: Annual,2022-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL10: Finland,A: Annual,2011-02-01,1077,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL10: Finland,A: Annual,2012-01-01,1132,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL10: Finland,A: Annual,2013-01-01,1128,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL10: Finland,A: Annual,2014-01-01,1154,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL10: Finland,A: Annual,2015-01-01,1199,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL10: Finland,A: Annual,2016-01-01,1244,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL10: Finland,A: Annual,2017-01-01,1252,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL10: Finland,A: Annual,2018-01-01,1259,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL10: Finland,A: Annual,2019-01-01,1304,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL10: Finland,A: Annual,2020-01-01,1295,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL10: Finland,A: Annual,2021-01-01,1256,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL10: Finland,A: Annual,2022-01-01,1203,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL11: France,A: Annual,2011-02-01,31456,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL11: France,A: Annual,2012-01-01,33123,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL11: France,A: Annual,2013-01-01,35215,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL11: France,A: Annual,2014-01-01,37158,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL11: France,A: Annual,2015-01-01,39370,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL11: France,A: Annual,2016-01-01,41671,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL11: France,A: Annual,2017-01-01,44284,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL11: France,A: Annual,2018-01-01,45822,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL11: France,A: Annual,2019-01-01,46938,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL11: France,A: Annual,2020-01-01,47805,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL11: France,A: Annual,2021-01-01,48502,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL11: France,A: Annual,2022-01-01,49173,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL44: Serbia,A: Annual,2011-02-01,2161,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL44: Serbia,A: Annual,2012-01-01,2756,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL44: Serbia,A: Annual,2013-01-01,2506,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL44: Serbia,A: Annual,2014-01-01,2429,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL44: Serbia,A: Annual,2015-01-01,2390,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL44: Serbia,A: Annual,2016-01-01,2367,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL44: Serbia,A: Annual,2017-01-01,2329,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL44: Serbia,A: Annual,2018-01-01,2297,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL44: Serbia,A: Annual,2019-01-01,2031,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL44: Serbia,A: Annual,2020-01-01,1866,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL44: Serbia,A: Annual,2021-01-01,1772,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL44: Serbia,A: Annual,2022-01-01,1757,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL45: Switzerland,A: Annual,2011-02-01,518,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL45: Switzerland,A: Annual,2012-01-01,533,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL45: Switzerland,A: Annual,2013-01-01,523,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL45: Switzerland,A: Annual,2014-01-01,531,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL45: Switzerland,A: Annual,2015-01-01,522,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL45: Switzerland,A: Annual,2016-01-01,526,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL45: Switzerland,A: Annual,2017-01-01,508,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL45: Switzerland,A: Annual,2018-01-01,515,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL45: Switzerland,A: Annual,2019-01-01,536,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL45: Switzerland,A: Annual,2020-01-01,549,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL45: Switzerland,A: Annual,2021-01-01,558,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL45: Switzerland,A: Annual,2022-01-01,527,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL017: Djibouti,A: Annual,2011-02-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL017: Djibouti,A: Annual,2012-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL017: Djibouti,A: Annual,2013-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL017: Djibouti,A: Annual,2014-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL017: Djibouti,A: Annual,2015-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL017: Djibouti,A: Annual,2016-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL017: Djibouti,A: Annual,2017-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL017: Djibouti,A: Annual,2018-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL017: Djibouti,A: Annual,2019-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL017: Djibouti,A: Annual,2020-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL017: Djibouti,A: Annual,2021-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL017: Djibouti,A: Annual,2022-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL033: Mali,A: Annual,2011-02-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL033: Mali,A: Annual,2012-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL033: Mali,A: Annual,2013-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL033: Mali,A: Annual,2014-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL033: Mali,A: Annual,2015-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL033: Mali,A: Annual,2016-01-01,33,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL033: Mali,A: Annual,2017-01-01,30,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL033: Mali,A: Annual,2018-01-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL033: Mali,A: Annual,2019-01-01,32,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL033: Mali,A: Annual,2020-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL033: Mali,A: Annual,2021-01-01,30,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL033: Mali,A: Annual,2022-01-01,38,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL051: South Sudan,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL051: South Sudan,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL051: South Sudan,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL051: South Sudan,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL051: South Sudan,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL051: South Sudan,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL051: South Sudan,A: Annual,2017-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL051: South Sudan,A: Annual,2018-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL051: South Sudan,A: Annual,2019-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL051: South Sudan,A: Annual,2020-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL051: South Sudan,A: Annual,2021-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL051: South Sudan,A: Annual,2022-01-01,,,,,,,0: Zero
+LU1:DF_B1113(1.0),L04: AMERICA,A: Annual,2011-02-01,3817,,,,,,0: Zero
+LU1:DF_B1113(1.0),L04: AMERICA,A: Annual,2012-01-01,4184,,,,,,0: Zero
+LU1:DF_B1113(1.0),L04: AMERICA,A: Annual,2013-01-01,4604,,,,,,0: Zero
+LU1:DF_B1113(1.0),L04: AMERICA,A: Annual,2014-01-01,5182,,,,,,0: Zero
+LU1:DF_B1113(1.0),L04: AMERICA,A: Annual,2015-01-01,5640,,,,,,0: Zero
+LU1:DF_B1113(1.0),L04: AMERICA,A: Annual,2016-01-01,5975,,,,,,0: Zero
+LU1:DF_B1113(1.0),L04: AMERICA,A: Annual,2017-01-01,5706,,,,,,0: Zero
+LU1:DF_B1113(1.0),L04: AMERICA,A: Annual,2018-01-01,6101,,,,,,0: Zero
+LU1:DF_B1113(1.0),L04: AMERICA,A: Annual,2019-01-01,6459,,,,,,0: Zero
+LU1:DF_B1113(1.0),L04: AMERICA,A: Annual,2020-01-01,7070,,,,,,0: Zero
+LU1:DF_B1113(1.0),L04: AMERICA,A: Annual,2021-01-01,7264,,,,,,0: Zero
+LU1:DF_B1113(1.0),L04: AMERICA,A: Annual,2022-01-01,7707,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL66: Dominican Republic,A: Annual,2011-02-01,205,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL66: Dominican Republic,A: Annual,2012-01-01,221,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL66: Dominican Republic,A: Annual,2013-01-01,225,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL66: Dominican Republic,A: Annual,2014-01-01,233,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL66: Dominican Republic,A: Annual,2015-01-01,230,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL66: Dominican Republic,A: Annual,2016-01-01,244,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL66: Dominican Republic,A: Annual,2017-01-01,244,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL66: Dominican Republic,A: Annual,2018-01-01,250,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL66: Dominican Republic,A: Annual,2019-01-01,237,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL66: Dominican Republic,A: Annual,2020-01-01,256,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL66: Dominican Republic,A: Annual,2021-01-01,269,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL66: Dominican Republic,A: Annual,2022-01-01,263,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL78: Paraguay,A: Annual,2011-02-01,20,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL78: Paraguay,A: Annual,2012-01-01,22,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL78: Paraguay,A: Annual,2013-01-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL78: Paraguay,A: Annual,2014-01-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL78: Paraguay,A: Annual,2015-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL78: Paraguay,A: Annual,2016-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL78: Paraguay,A: Annual,2017-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL78: Paraguay,A: Annual,2018-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL78: Paraguay,A: Annual,2019-01-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL78: Paraguay,A: Annual,2020-01-01,20,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL78: Paraguay,A: Annual,2021-01-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL78: Paraguay,A: Annual,2022-01-01,22,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL067: Bhutan,A: Annual,2011-02-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL067: Bhutan,A: Annual,2012-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL067: Bhutan,A: Annual,2013-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL067: Bhutan,A: Annual,2014-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL067: Bhutan,A: Annual,2015-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL067: Bhutan,A: Annual,2016-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL067: Bhutan,A: Annual,2017-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL067: Bhutan,A: Annual,2018-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL067: Bhutan,A: Annual,2019-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL067: Bhutan,A: Annual,2020-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL067: Bhutan,A: Annual,2021-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL067: Bhutan,A: Annual,2022-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL072: South Korea,A: Annual,2011-02-01,61,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL072: South Korea,A: Annual,2012-01-01,85,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL072: South Korea,A: Annual,2013-01-01,108,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL072: South Korea,A: Annual,2014-01-01,163,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL072: South Korea,A: Annual,2015-01-01,216,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL072: South Korea,A: Annual,2016-01-01,167,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL072: South Korea,A: Annual,2017-01-01,143,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL072: South Korea,A: Annual,2018-01-01,161,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL072: South Korea,A: Annual,2019-01-01,176,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL072: South Korea,A: Annual,2020-01-01,197,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL072: South Korea,A: Annual,2021-01-01,197,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL072: South Korea,A: Annual,2022-01-01,192,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL088: Myanmar,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL088: Myanmar,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL088: Myanmar,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL088: Myanmar,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL088: Myanmar,A: Annual,2015-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL088: Myanmar,A: Annual,2016-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL088: Myanmar,A: Annual,2017-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL088: Myanmar,A: Annual,2018-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL088: Myanmar,A: Annual,2019-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL088: Myanmar,A: Annual,2020-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL088: Myanmar,A: Annual,2021-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL088: Myanmar,A: Annual,2022-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL102: Turkmanistan,A: Annual,2011-02-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL102: Turkmanistan,A: Annual,2012-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL102: Turkmanistan,A: Annual,2013-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL102: Turkmanistan,A: Annual,2014-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL102: Turkmanistan,A: Annual,2015-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL102: Turkmanistan,A: Annual,2016-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL102: Turkmanistan,A: Annual,2017-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL102: Turkmanistan,A: Annual,2018-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL102: Turkmanistan,A: Annual,2019-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL102: Turkmanistan,A: Annual,2020-01-01,16,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL102: Turkmanistan,A: Annual,2021-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL102: Turkmanistan,A: Annual,2022-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL003: Other countries EU,A: Annual,2011-02-01,192047,,,"SL003: 2007 - 2012: EU27, 2013 - 2020: EU28, starting 2021: EU27",,,0: Zero
+LU1:DF_B1113(1.0),SL003: Other countries EU,A: Annual,2012-01-01,199059,,,"SL003: 2007 - 2012: EU27, 2013 - 2020: EU28, starting 2021: EU27",,,0: Zero
+LU1:DF_B1113(1.0),SL003: Other countries EU,A: Annual,2013-01-01,206561,,,"SL003: 2007 - 2012: EU27, 2013 - 2020: EU28, starting 2021: EU27",,,0: Zero
+LU1:DF_B1113(1.0),SL003: Other countries EU,A: Annual,2014-01-01,214390,,,"SL003: 2007 - 2012: EU27, 2013 - 2020: EU28, starting 2021: EU27",,,0: Zero
+LU1:DF_B1113(1.0),SL003: Other countries EU,A: Annual,2015-01-01,222192,,,"SL003: 2007 - 2012: EU27, 2013 - 2020: EU28, starting 2021: EU27",,,0: Zero
+LU1:DF_B1113(1.0),SL003: Other countries EU,A: Annual,2016-01-01,229506,,,"SL003: 2007 - 2012: EU27, 2013 - 2020: EU28, starting 2021: EU27",,,0: Zero
+LU1:DF_B1113(1.0),SL003: Other countries EU,A: Annual,2017-01-01,240290,,,"SL003: 2007 - 2012: EU27, 2013 - 2020: EU28, starting 2021: EU27",,,0: Zero
+LU1:DF_B1113(1.0),SL003: Other countries EU,A: Annual,2018-01-01,244400,,,"SL003: 2007 - 2012: EU27, 2013 - 2020: EU28, starting 2021: EU27",,,0: Zero
+LU1:DF_B1113(1.0),SL003: Other countries EU,A: Annual,2019-01-01,246053,,,"SL003: 2007 - 2012: EU27, 2013 - 2020: EU28, starting 2021: EU27",,,0: Zero
+LU1:DF_B1113(1.0),SL003: Other countries EU,A: Annual,2020-01-01,247878,,,"SL003: 2007 - 2012: EU27, 2013 - 2020: EU28, starting 2021: EU27",,,0: Zero
+LU1:DF_B1113(1.0),SL003: Other countries EU,A: Annual,2021-01-01,244165,,,"SL003: 2007 - 2012: EU27, 2013 - 2020: EU28, starting 2021: EU27",,,0: Zero
+LU1:DF_B1113(1.0),SL003: Other countries EU,A: Annual,2022-01-01,245908,,,"SL003: 2007 - 2012: EU27, 2013 - 2020: EU28, starting 2021: EU27",,,0: Zero
+LU1:DF_B1113(1.0),SSL03: Belgium,A: Annual,2011-02-01,16926,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL03: Belgium,A: Annual,2012-01-01,17165,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL03: Belgium,A: Annual,2013-01-01,17555,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL03: Belgium,A: Annual,2014-01-01,18159,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL03: Belgium,A: Annual,2015-01-01,18834,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL03: Belgium,A: Annual,2016-01-01,19406,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL03: Belgium,A: Annual,2017-01-01,20029,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL03: Belgium,A: Annual,2018-01-01,20212,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL03: Belgium,A: Annual,2019-01-01,19953,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL03: Belgium,A: Annual,2020-01-01,19823,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL03: Belgium,A: Annual,2021-01-01,19613,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL03: Belgium,A: Annual,2022-01-01,19414,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL23: Romania,A: Annual,2011-02-01,1589,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL23: Romania,A: Annual,2012-01-01,1925,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL23: Romania,A: Annual,2013-01-01,2233,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL23: Romania,A: Annual,2014-01-01,2527,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL23: Romania,A: Annual,2015-01-01,3210,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL23: Romania,A: Annual,2016-01-01,3833,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL23: Romania,A: Annual,2017-01-01,4142,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL23: Romania,A: Annual,2018-01-01,4662,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL23: Romania,A: Annual,2019-01-01,5209,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL23: Romania,A: Annual,2020-01-01,5724,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL23: Romania,A: Annual,2021-01-01,6096,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL23: Romania,A: Annual,2022-01-01,6405,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL24: United Kingdom,A: Annual,2011-02-01,5471,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL24: United Kingdom,A: Annual,2012-01-01,5571,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL24: United Kingdom,A: Annual,2013-01-01,5696,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL24: United Kingdom,A: Annual,2014-01-01,5883,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL24: United Kingdom,A: Annual,2015-01-01,6023,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL24: United Kingdom,A: Annual,2016-01-01,6119,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL24: United Kingdom,A: Annual,2017-01-01,6111,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL24: United Kingdom,A: Annual,2018-01-01,5941,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL24: United Kingdom,A: Annual,2019-01-01,5766,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL24: United Kingdom,A: Annual,2020-01-01,5317,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL24: United Kingdom,A: Annual,2021-01-01,,,,,,z: Not applicable,0: Zero
+LU1:DF_B1113(1.0),SSL24: United Kingdom,A: Annual,2022-01-01,,,,,,z: Not applicable,0: Zero
+LU1:DF_B1113(1.0),SL004: Other european countries,A: Annual,2011-02-01,13696,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL004: Other european countries,A: Annual,2012-01-01,14709,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL004: Other european countries,A: Annual,2013-01-01,14790,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL004: Other european countries,A: Annual,2014-01-01,15033,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL004: Other european countries,A: Annual,2015-01-01,15232,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL004: Other european countries,A: Annual,2016-01-01,15209,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL004: Other european countries,A: Annual,2017-01-01,15400,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL004: Other european countries,A: Annual,2018-01-01,15111,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL004: Other european countries,A: Annual,2019-01-01,13890,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL004: Other european countries,A: Annual,2020-01-01,13246,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL004: Other european countries,A: Annual,2021-01-01,17510,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL004: Other european countries,A: Annual,2022-01-01,17220,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL31: Andorra,A: Annual,2011-02-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL31: Andorra,A: Annual,2012-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL31: Andorra,A: Annual,2013-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL31: Andorra,A: Annual,2014-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL31: Andorra,A: Annual,2015-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL31: Andorra,A: Annual,2016-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL31: Andorra,A: Annual,2017-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL31: Andorra,A: Annual,2018-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL31: Andorra,A: Annual,2019-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL31: Andorra,A: Annual,2020-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL31: Andorra,A: Annual,2021-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL31: Andorra,A: Annual,2022-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL038: Namibia,A: Annual,2011-02-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL038: Namibia,A: Annual,2012-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL038: Namibia,A: Annual,2013-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL038: Namibia,A: Annual,2014-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL038: Namibia,A: Annual,2015-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL038: Namibia,A: Annual,2016-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL038: Namibia,A: Annual,2017-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL038: Namibia,A: Annual,2018-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL038: Namibia,A: Annual,2019-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL038: Namibia,A: Annual,2020-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL038: Namibia,A: Annual,2021-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL038: Namibia,A: Annual,2022-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL046: Senegal,A: Annual,2011-02-01,136,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL046: Senegal,A: Annual,2012-01-01,173,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL046: Senegal,A: Annual,2013-01-01,194,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL046: Senegal,A: Annual,2014-01-01,230,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL046: Senegal,A: Annual,2015-01-01,240,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL046: Senegal,A: Annual,2016-01-01,270,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL046: Senegal,A: Annual,2017-01-01,298,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL046: Senegal,A: Annual,2018-01-01,320,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL046: Senegal,A: Annual,2019-01-01,347,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL046: Senegal,A: Annual,2020-01-01,379,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL046: Senegal,A: Annual,2021-01-01,428,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL046: Senegal,A: Annual,2022-01-01,473,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL58: Grenada,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL58: Grenada,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL58: Grenada,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL58: Grenada,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL58: Grenada,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL58: Grenada,A: Annual,2016-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL58: Grenada,A: Annual,2017-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL58: Grenada,A: Annual,2018-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL58: Grenada,A: Annual,2019-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL58: Grenada,A: Annual,2020-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL58: Grenada,A: Annual,2021-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL58: Grenada,A: Annual,2022-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL65: Pananma,A: Annual,2011-02-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL65: Pananma,A: Annual,2012-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL65: Pananma,A: Annual,2013-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL65: Pananma,A: Annual,2014-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL65: Pananma,A: Annual,2015-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL65: Pananma,A: Annual,2016-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL65: Pananma,A: Annual,2017-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL65: Pananma,A: Annual,2018-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL65: Pananma,A: Annual,2019-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL65: Pananma,A: Annual,2020-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL65: Pananma,A: Annual,2021-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL65: Pananma,A: Annual,2022-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL79: Peru,A: Annual,2011-02-01,128,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL79: Peru,A: Annual,2012-01-01,141,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL79: Peru,A: Annual,2013-01-01,146,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL79: Peru,A: Annual,2014-01-01,143,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL79: Peru,A: Annual,2015-01-01,145,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL79: Peru,A: Annual,2016-01-01,156,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL79: Peru,A: Annual,2017-01-01,163,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL79: Peru,A: Annual,2018-01-01,161,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL79: Peru,A: Annual,2019-01-01,153,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL79: Peru,A: Annual,2020-01-01,161,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL79: Peru,A: Annual,2021-01-01,169,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL79: Peru,A: Annual,2022-01-01,181,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL080: Japan,A: Annual,2011-02-01,355,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL080: Japan,A: Annual,2012-01-01,385,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL080: Japan,A: Annual,2013-01-01,422,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL080: Japan,A: Annual,2014-01-01,449,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL080: Japan,A: Annual,2015-01-01,498,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL080: Japan,A: Annual,2016-01-01,560,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL080: Japan,A: Annual,2017-01-01,529,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL080: Japan,A: Annual,2018-01-01,518,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL080: Japan,A: Annual,2019-01-01,506,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL080: Japan,A: Annual,2020-01-01,532,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL080: Japan,A: Annual,2021-01-01,547,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL080: Japan,A: Annual,2022-01-01,537,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL101: Thailand,A: Annual,2011-02-01,316,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL101: Thailand,A: Annual,2012-01-01,326,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL101: Thailand,A: Annual,2013-01-01,345,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL101: Thailand,A: Annual,2014-01-01,358,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL101: Thailand,A: Annual,2015-01-01,373,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL101: Thailand,A: Annual,2016-01-01,391,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL101: Thailand,A: Annual,2017-01-01,413,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL101: Thailand,A: Annual,2018-01-01,424,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL101: Thailand,A: Annual,2019-01-01,448,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL101: Thailand,A: Annual,2020-01-01,448,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL101: Thailand,A: Annual,2021-01-01,467,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL101: Thailand,A: Annual,2022-01-01,475,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL01: Germany,A: Annual,2011-02-01,12049,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL01: Germany,A: Annual,2012-01-01,12259,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL01: Germany,A: Annual,2013-01-01,12382,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL01: Germany,A: Annual,2014-01-01,12659,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL01: Germany,A: Annual,2015-01-01,12789,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL01: Germany,A: Annual,2016-01-01,12787,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL01: Germany,A: Annual,2017-01-01,13092,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL01: Germany,A: Annual,2018-01-01,13146,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL01: Germany,A: Annual,2019-01-01,13015,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL01: Germany,A: Annual,2020-01-01,12849,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL01: Germany,A: Annual,2021-01-01,12785,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL01: Germany,A: Annual,2022-01-01,12796,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL16: Latvia,A: Annual,2011-02-01,395,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL16: Latvia,A: Annual,2012-01-01,474,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL16: Latvia,A: Annual,2013-01-01,503,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL16: Latvia,A: Annual,2014-01-01,554,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL16: Latvia,A: Annual,2015-01-01,590,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL16: Latvia,A: Annual,2016-01-01,649,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL16: Latvia,A: Annual,2017-01-01,675,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL16: Latvia,A: Annual,2018-01-01,711,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL16: Latvia,A: Annual,2019-01-01,727,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL16: Latvia,A: Annual,2020-01-01,754,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL16: Latvia,A: Annual,2021-01-01,753,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL16: Latvia,A: Annual,2022-01-01,764,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL026: Equatorial Guinea,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL026: Equatorial Guinea,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL026: Equatorial Guinea,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL026: Equatorial Guinea,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL026: Equatorial Guinea,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL026: Equatorial Guinea,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL026: Equatorial Guinea,A: Annual,2017-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL026: Equatorial Guinea,A: Annual,2018-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL026: Equatorial Guinea,A: Annual,2019-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL026: Equatorial Guinea,A: Annual,2020-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL026: Equatorial Guinea,A: Annual,2021-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL026: Equatorial Guinea,A: Annual,2022-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL041: Uganda,A: Annual,2011-02-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL041: Uganda,A: Annual,2012-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL041: Uganda,A: Annual,2013-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL041: Uganda,A: Annual,2014-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL041: Uganda,A: Annual,2015-01-01,16,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL041: Uganda,A: Annual,2016-01-01,17,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL041: Uganda,A: Annual,2017-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL041: Uganda,A: Annual,2018-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL041: Uganda,A: Annual,2019-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL041: Uganda,A: Annual,2020-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL041: Uganda,A: Annual,2021-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL041: Uganda,A: Annual,2022-01-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL043: Democratic Republic of Congo,A: Annual,2011-02-01,44,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL043: Democratic Republic of Congo,A: Annual,2012-01-01,66,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL043: Democratic Republic of Congo,A: Annual,2013-01-01,76,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL043: Democratic Republic of Congo,A: Annual,2014-01-01,96,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL043: Democratic Republic of Congo,A: Annual,2015-01-01,105,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL043: Democratic Republic of Congo,A: Annual,2016-01-01,119,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL043: Democratic Republic of Congo,A: Annual,2017-01-01,252,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL043: Democratic Republic of Congo,A: Annual,2018-01-01,253,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL043: Democratic Republic of Congo,A: Annual,2019-01-01,273,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL043: Democratic Republic of Congo,A: Annual,2020-01-01,295,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL043: Democratic Republic of Congo,A: Annual,2021-01-01,293,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL043: Democratic Republic of Congo,A: Annual,2022-01-01,310,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL52: Barbados,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL52: Barbados,A: Annual,2012-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL52: Barbados,A: Annual,2013-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL52: Barbados,A: Annual,2014-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL52: Barbados,A: Annual,2015-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL52: Barbados,A: Annual,2016-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL52: Barbados,A: Annual,2017-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL52: Barbados,A: Annual,2018-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL52: Barbados,A: Annual,2019-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL52: Barbados,A: Annual,2020-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL52: Barbados,A: Annual,2021-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL52: Barbados,A: Annual,2022-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL54: Costa Rica,A: Annual,2011-02-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL54: Costa Rica,A: Annual,2012-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL54: Costa Rica,A: Annual,2013-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL54: Costa Rica,A: Annual,2014-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL54: Costa Rica,A: Annual,2015-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL54: Costa Rica,A: Annual,2016-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL54: Costa Rica,A: Annual,2017-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL54: Costa Rica,A: Annual,2018-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL54: Costa Rica,A: Annual,2019-01-01,20,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL54: Costa Rica,A: Annual,2020-01-01,31,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL54: Costa Rica,A: Annual,2021-01-01,37,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL54: Costa Rica,A: Annual,2022-01-01,42,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL56: Dominica,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL56: Dominica,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL56: Dominica,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL56: Dominica,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL56: Dominica,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL56: Dominica,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL56: Dominica,A: Annual,2017-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL56: Dominica,A: Annual,2018-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL56: Dominica,A: Annual,2019-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL56: Dominica,A: Annual,2020-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL56: Dominica,A: Annual,2021-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL56: Dominica,A: Annual,2022-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL71: Argentina,A: Annual,2011-02-01,52,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL71: Argentina,A: Annual,2012-01-01,75,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL71: Argentina,A: Annual,2013-01-01,85,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL71: Argentina,A: Annual,2014-01-01,93,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL71: Argentina,A: Annual,2015-01-01,98,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL71: Argentina,A: Annual,2016-01-01,109,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL71: Argentina,A: Annual,2017-01-01,98,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL71: Argentina,A: Annual,2018-01-01,93,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL71: Argentina,A: Annual,2019-01-01,103,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL71: Argentina,A: Annual,2020-01-01,121,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL71: Argentina,A: Annual,2021-01-01,137,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL71: Argentina,A: Annual,2022-01-01,156,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL081: Jordania,A: Annual,2011-02-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL081: Jordania,A: Annual,2012-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL081: Jordania,A: Annual,2013-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL081: Jordania,A: Annual,2014-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL081: Jordania,A: Annual,2015-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL081: Jordania,A: Annual,2016-01-01,16,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL081: Jordania,A: Annual,2017-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL081: Jordania,A: Annual,2018-01-01,28,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL081: Jordania,A: Annual,2019-01-01,27,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL081: Jordania,A: Annual,2020-01-01,35,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL081: Jordania,A: Annual,2021-01-01,32,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL081: Jordania,A: Annual,2022-01-01,28,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL096: Singapore,A: Annual,2011-02-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL096: Singapore,A: Annual,2012-01-01,27,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL096: Singapore,A: Annual,2013-01-01,30,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL096: Singapore,A: Annual,2014-01-01,30,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL096: Singapore,A: Annual,2015-01-01,47,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL096: Singapore,A: Annual,2016-01-01,47,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL096: Singapore,A: Annual,2017-01-01,52,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL096: Singapore,A: Annual,2018-01-01,65,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL096: Singapore,A: Annual,2019-01-01,69,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL096: Singapore,A: Annual,2020-01-01,87,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL096: Singapore,A: Annual,2021-01-01,94,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL096: Singapore,A: Annual,2022-01-01,97,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL098: Syria,A: Annual,2011-02-01,25,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL098: Syria,A: Annual,2012-01-01,30,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL098: Syria,A: Annual,2013-01-01,31,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL098: Syria,A: Annual,2014-01-01,43,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL098: Syria,A: Annual,2015-01-01,148,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL098: Syria,A: Annual,2016-01-01,831,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL098: Syria,A: Annual,2017-01-01,1183,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL098: Syria,A: Annual,2018-01-01,1700,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL098: Syria,A: Annual,2019-01-01,1933,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL098: Syria,A: Annual,2020-01-01,2266,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL098: Syria,A: Annual,2021-01-01,2535,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL098: Syria,A: Annual,2022-01-01,2696,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL29: Former Yugoslav Republic of Macedonia,A: Annual,2011-02-01,355,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL29: Former Yugoslav Republic of Macedonia,A: Annual,2012-01-01,698,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL29: Former Yugoslav Republic of Macedonia,A: Annual,2013-01-01,541,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL29: Former Yugoslav Republic of Macedonia,A: Annual,2014-01-01,522,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL29: Former Yugoslav Republic of Macedonia,A: Annual,2015-01-01,525,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL29: Former Yugoslav Republic of Macedonia,A: Annual,2016-01-01,507,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL29: Former Yugoslav Republic of Macedonia,A: Annual,2017-01-01,479,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL29: Former Yugoslav Republic of Macedonia,A: Annual,2018-01-01,447,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL29: Former Yugoslav Republic of Macedonia,A: Annual,2019-01-01,402,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL29: Former Yugoslav Republic of Macedonia,A: Annual,2020-01-01,398,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL29: Former Yugoslav Republic of Macedonia,A: Annual,2021-01-01,395,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL29: Former Yugoslav Republic of Macedonia,A: Annual,2022-01-01,400,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL39: Monaco,A: Annual,2011-02-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL39: Monaco,A: Annual,2012-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL39: Monaco,A: Annual,2013-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL39: Monaco,A: Annual,2014-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL39: Monaco,A: Annual,2015-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL39: Monaco,A: Annual,2016-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL39: Monaco,A: Annual,2017-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL39: Monaco,A: Annual,2018-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL39: Monaco,A: Annual,2019-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL39: Monaco,A: Annual,2020-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL39: Monaco,A: Annual,2021-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL39: Monaco,A: Annual,2022-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL43: San Marino,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL43: San Marino,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL43: San Marino,A: Annual,2013-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL43: San Marino,A: Annual,2014-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL43: San Marino,A: Annual,2015-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL43: San Marino,A: Annual,2016-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL43: San Marino,A: Annual,2017-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL43: San Marino,A: Annual,2018-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL43: San Marino,A: Annual,2019-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL43: San Marino,A: Annual,2020-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL43: San Marino,A: Annual,2021-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL43: San Marino,A: Annual,2022-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL013: Cape Verde,A: Annual,2011-02-01,2472,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL013: Cape Verde,A: Annual,2012-01-01,2513,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL013: Cape Verde,A: Annual,2013-01-01,2611,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL013: Cape Verde,A: Annual,2014-01-01,2747,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL013: Cape Verde,A: Annual,2015-01-01,2883,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL013: Cape Verde,A: Annual,2016-01-01,2965,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL013: Cape Verde,A: Annual,2017-01-01,2855,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL013: Cape Verde,A: Annual,2018-01-01,2778,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL013: Cape Verde,A: Annual,2019-01-01,2621,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL013: Cape Verde,A: Annual,2020-01-01,2572,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL013: Cape Verde,A: Annual,2021-01-01,2557,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL013: Cape Verde,A: Annual,2022-01-01,2507,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL030: Libya,A: Annual,2011-02-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL030: Libya,A: Annual,2012-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL030: Libya,A: Annual,2013-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL030: Libya,A: Annual,2014-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL030: Libya,A: Annual,2015-01-01,22,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL030: Libya,A: Annual,2016-01-01,20,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL030: Libya,A: Annual,2017-01-01,17,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL030: Libya,A: Annual,2018-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL030: Libya,A: Annual,2019-01-01,29,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL030: Libya,A: Annual,2020-01-01,43,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL030: Libya,A: Annual,2021-01-01,45,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL030: Libya,A: Annual,2022-01-01,46,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL054: Togo,A: Annual,2011-02-01,103,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL054: Togo,A: Annual,2012-01-01,115,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL054: Togo,A: Annual,2013-01-01,116,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL054: Togo,A: Annual,2014-01-01,135,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL054: Togo,A: Annual,2015-01-01,147,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL054: Togo,A: Annual,2016-01-01,163,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL054: Togo,A: Annual,2017-01-01,165,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL054: Togo,A: Annual,2018-01-01,175,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL054: Togo,A: Annual,2019-01-01,190,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL054: Togo,A: Annual,2020-01-01,203,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL054: Togo,A: Annual,2021-01-01,212,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL054: Togo,A: Annual,2022-01-01,233,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL058: North America,A: Annual,2011-02-01,1671,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL058: North America,A: Annual,2012-01-01,1841,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL058: North America,A: Annual,2013-01-01,2104,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL058: North America,A: Annual,2014-01-01,2409,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL058: North America,A: Annual,2015-01-01,2703,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL058: North America,A: Annual,2016-01-01,2817,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL058: North America,A: Annual,2017-01-01,2494,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL058: North America,A: Annual,2018-01-01,2647,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL058: North America,A: Annual,2019-01-01,2730,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL058: North America,A: Annual,2020-01-01,2878,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL058: North America,A: Annual,2021-01-01,2750,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL058: North America,A: Annual,2022-01-01,2731,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL67: Saint Kitts and Nevis,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL67: Saint Kitts and Nevis,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL67: Saint Kitts and Nevis,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL67: Saint Kitts and Nevis,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL67: Saint Kitts and Nevis,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL67: Saint Kitts and Nevis,A: Annual,2016-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL67: Saint Kitts and Nevis,A: Annual,2017-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL67: Saint Kitts and Nevis,A: Annual,2018-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL67: Saint Kitts and Nevis,A: Annual,2019-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL67: Saint Kitts and Nevis,A: Annual,2020-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL67: Saint Kitts and Nevis,A: Annual,2021-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL67: Saint Kitts and Nevis,A: Annual,2022-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL068: Brunei,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL068: Brunei,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL068: Brunei,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL068: Brunei,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL068: Brunei,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL068: Brunei,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL068: Brunei,A: Annual,2017-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL068: Brunei,A: Annual,2018-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL068: Brunei,A: Annual,2019-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL068: Brunei,A: Annual,2020-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL068: Brunei,A: Annual,2021-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL068: Brunei,A: Annual,2022-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL085: Laos,A: Annual,2011-02-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL085: Laos,A: Annual,2012-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL085: Laos,A: Annual,2013-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL085: Laos,A: Annual,2014-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL085: Laos,A: Annual,2015-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL085: Laos,A: Annual,2016-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL085: Laos,A: Annual,2017-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL085: Laos,A: Annual,2018-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL085: Laos,A: Annual,2019-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL085: Laos,A: Annual,2020-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL085: Laos,A: Annual,2021-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL085: Laos,A: Annual,2022-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),"SL100: Taiwan, province of China",A: Annual,2011-02-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),"SL100: Taiwan, province of China",A: Annual,2012-01-01,26,,,,,,0: Zero
+LU1:DF_B1113(1.0),"SL100: Taiwan, province of China",A: Annual,2013-01-01,22,,,,,,0: Zero
+LU1:DF_B1113(1.0),"SL100: Taiwan, province of China",A: Annual,2014-01-01,22,,,,,,0: Zero
+LU1:DF_B1113(1.0),"SL100: Taiwan, province of China",A: Annual,2015-01-01,22,,,,,,0: Zero
+LU1:DF_B1113(1.0),"SL100: Taiwan, province of China",A: Annual,2016-01-01,29,,,,,,0: Zero
+LU1:DF_B1113(1.0),"SL100: Taiwan, province of China",A: Annual,2017-01-01,24,,,,,,0: Zero
+LU1:DF_B1113(1.0),"SL100: Taiwan, province of China",A: Annual,2018-01-01,35,,,,,,0: Zero
+LU1:DF_B1113(1.0),"SL100: Taiwan, province of China",A: Annual,2019-01-01,43,,,,,,0: Zero
+LU1:DF_B1113(1.0),"SL100: Taiwan, province of China",A: Annual,2020-01-01,75,,,,,,0: Zero
+LU1:DF_B1113(1.0),"SL100: Taiwan, province of China",A: Annual,2021-01-01,74,,,,,,0: Zero
+LU1:DF_B1113(1.0),"SL100: Taiwan, province of China",A: Annual,2022-01-01,88,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL109: New Zealand,A: Annual,2011-02-01,45,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL109: New Zealand,A: Annual,2012-01-01,50,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL109: New Zealand,A: Annual,2013-01-01,43,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL109: New Zealand,A: Annual,2014-01-01,46,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL109: New Zealand,A: Annual,2015-01-01,50,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL109: New Zealand,A: Annual,2016-01-01,52,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL109: New Zealand,A: Annual,2017-01-01,52,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL109: New Zealand,A: Annual,2018-01-01,59,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL109: New Zealand,A: Annual,2019-01-01,56,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL109: New Zealand,A: Annual,2020-01-01,51,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL109: New Zealand,A: Annual,2021-01-01,55,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL109: New Zealand,A: Annual,2022-01-01,55,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL001: Luxembourg,A: Annual,2011-02-01,291831,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL001: Luxembourg,A: Annual,2012-01-01,294983,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL001: Luxembourg,A: Annual,2013-01-01,298195,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL001: Luxembourg,A: Annual,2014-01-01,300766,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL001: Luxembourg,A: Annual,2015-01-01,304279,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL001: Luxembourg,A: Annual,2016-01-01,307074,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL001: Luxembourg,A: Annual,2017-01-01,309170,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL001: Luxembourg,A: Annual,2018-01-01,313771,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL001: Luxembourg,A: Annual,2019-01-01,322430,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL001: Luxembourg,A: Annual,2020-01-01,329643,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL001: Luxembourg,A: Annual,2021-01-01,335304,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL001: Luxembourg,A: Annual,2022-01-01,341230,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL12: Greece,A: Annual,2011-02-01,1541,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL12: Greece,A: Annual,2012-01-01,1683,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL12: Greece,A: Annual,2013-01-01,1902,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL12: Greece,A: Annual,2014-01-01,2108,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL12: Greece,A: Annual,2015-01-01,2307,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL12: Greece,A: Annual,2016-01-01,2572,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL12: Greece,A: Annual,2017-01-01,2896,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL12: Greece,A: Annual,2018-01-01,3250,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL12: Greece,A: Annual,2019-01-01,3442,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL12: Greece,A: Annual,2020-01-01,3673,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL12: Greece,A: Annual,2021-01-01,3811,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL12: Greece,A: Annual,2022-01-01,4017,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL26: Slovenia,A: Annual,2011-02-01,422,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL26: Slovenia,A: Annual,2012-01-01,476,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL26: Slovenia,A: Annual,2013-01-01,503,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL26: Slovenia,A: Annual,2014-01-01,572,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL26: Slovenia,A: Annual,2015-01-01,632,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL26: Slovenia,A: Annual,2016-01-01,669,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL26: Slovenia,A: Annual,2017-01-01,694,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL26: Slovenia,A: Annual,2018-01-01,727,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL26: Slovenia,A: Annual,2019-01-01,750,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL26: Slovenia,A: Annual,2020-01-01,756,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL26: Slovenia,A: Annual,2021-01-01,766,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL26: Slovenia,A: Annual,2022-01-01,775,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL27: Sweden,A: Annual,2011-02-01,1720,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL27: Sweden,A: Annual,2012-01-01,1739,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL27: Sweden,A: Annual,2013-01-01,1761,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL27: Sweden,A: Annual,2014-01-01,1761,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL27: Sweden,A: Annual,2015-01-01,1833,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL27: Sweden,A: Annual,2016-01-01,1877,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL27: Sweden,A: Annual,2017-01-01,1823,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL27: Sweden,A: Annual,2018-01-01,1787,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL27: Sweden,A: Annual,2019-01-01,1749,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL27: Sweden,A: Annual,2020-01-01,1721,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL27: Sweden,A: Annual,2021-01-01,1666,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL27: Sweden,A: Annual,2022-01-01,1611,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL28: Albania,A: Annual,2011-02-01,367,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL28: Albania,A: Annual,2012-01-01,394,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL28: Albania,A: Annual,2013-01-01,502,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL28: Albania,A: Annual,2014-01-01,539,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL28: Albania,A: Annual,2015-01-01,579,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL28: Albania,A: Annual,2016-01-01,637,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL28: Albania,A: Annual,2017-01-01,659,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL28: Albania,A: Annual,2018-01-01,623,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL28: Albania,A: Annual,2019-01-01,626,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL28: Albania,A: Annual,2020-01-01,700,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL28: Albania,A: Annual,2021-01-01,777,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL28: Albania,A: Annual,2022-01-01,873,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL42: United Kingdom,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL42: United Kingdom,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL42: United Kingdom,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL42: United Kingdom,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL42: United Kingdom,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL42: United Kingdom,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL42: United Kingdom,A: Annual,2017-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL42: United Kingdom,A: Annual,2018-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL42: United Kingdom,A: Annual,2019-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL42: United Kingdom,A: Annual,2020-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL42: United Kingdom,A: Annual,2021-01-01,4561,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL42: United Kingdom,A: Annual,2022-01-01,4104,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL015: Congo,A: Annual,2011-02-01,159,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL015: Congo,A: Annual,2012-01-01,163,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL015: Congo,A: Annual,2013-01-01,165,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL015: Congo,A: Annual,2014-01-01,166,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL015: Congo,A: Annual,2015-01-01,167,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL015: Congo,A: Annual,2016-01-01,171,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL015: Congo,A: Annual,2017-01-01,49,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL015: Congo,A: Annual,2018-01-01,47,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL015: Congo,A: Annual,2019-01-01,38,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL015: Congo,A: Annual,2020-01-01,37,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL015: Congo,A: Annual,2021-01-01,40,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL015: Congo,A: Annual,2022-01-01,37,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL055: Tunesia,A: Annual,2011-02-01,275,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL055: Tunesia,A: Annual,2012-01-01,331,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL055: Tunesia,A: Annual,2013-01-01,374,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL055: Tunesia,A: Annual,2014-01-01,428,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL055: Tunesia,A: Annual,2015-01-01,467,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL055: Tunesia,A: Annual,2016-01-01,510,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL055: Tunesia,A: Annual,2017-01-01,535,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL055: Tunesia,A: Annual,2018-01-01,643,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL055: Tunesia,A: Annual,2019-01-01,778,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL055: Tunesia,A: Annual,2020-01-01,887,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL055: Tunesia,A: Annual,2021-01-01,994,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL055: Tunesia,A: Annual,2022-01-01,1100,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL82: Venezuela,A: Annual,2011-02-01,38,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL82: Venezuela,A: Annual,2012-01-01,49,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL82: Venezuela,A: Annual,2013-01-01,56,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL82: Venezuela,A: Annual,2014-01-01,62,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL82: Venezuela,A: Annual,2015-01-01,69,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL82: Venezuela,A: Annual,2016-01-01,89,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL82: Venezuela,A: Annual,2017-01-01,84,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL82: Venezuela,A: Annual,2018-01-01,99,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL82: Venezuela,A: Annual,2019-01-01,121,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL82: Venezuela,A: Annual,2020-01-01,180,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL82: Venezuela,A: Annual,2021-01-01,235,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL82: Venezuela,A: Annual,2022-01-01,268,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL069: Cambodia,A: Annual,2011-02-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL069: Cambodia,A: Annual,2012-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL069: Cambodia,A: Annual,2013-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL069: Cambodia,A: Annual,2014-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL069: Cambodia,A: Annual,2015-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL069: Cambodia,A: Annual,2016-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL069: Cambodia,A: Annual,2017-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL069: Cambodia,A: Annual,2018-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL069: Cambodia,A: Annual,2019-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL069: Cambodia,A: Annual,2020-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL069: Cambodia,A: Annual,2021-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL069: Cambodia,A: Annual,2022-01-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL070: China,A: Annual,2011-02-01,1610,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL070: China,A: Annual,2012-01-01,1711,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL070: China,A: Annual,2013-01-01,1833,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL070: China,A: Annual,2014-01-01,2198,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL070: China,A: Annual,2015-01-01,2466,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL070: China,A: Annual,2016-01-01,2801,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL070: China,A: Annual,2017-01-01,3222,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL070: China,A: Annual,2018-01-01,3512,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL070: China,A: Annual,2019-01-01,3714,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL070: China,A: Annual,2020-01-01,3925,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL070: China,A: Annual,2021-01-01,3999,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL070: China,A: Annual,2022-01-01,4142,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL071: North Korea,A: Annual,2011-02-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL071: North Korea,A: Annual,2012-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL071: North Korea,A: Annual,2013-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL071: North Korea,A: Annual,2014-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL071: North Korea,A: Annual,2015-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL071: North Korea,A: Annual,2016-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL071: North Korea,A: Annual,2017-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL071: North Korea,A: Annual,2018-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL071: North Korea,A: Annual,2019-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL071: North Korea,A: Annual,2020-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL071: North Korea,A: Annual,2021-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL071: North Korea,A: Annual,2022-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),L07: OTHER NATIONALITIES,A: Annual,2011-02-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),L07: OTHER NATIONALITIES,A: Annual,2012-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),L07: OTHER NATIONALITIES,A: Annual,2013-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),L07: OTHER NATIONALITIES,A: Annual,2014-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),L07: OTHER NATIONALITIES,A: Annual,2015-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),L07: OTHER NATIONALITIES,A: Annual,2016-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),L07: OTHER NATIONALITIES,A: Annual,2017-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),L07: OTHER NATIONALITIES,A: Annual,2018-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),L07: OTHER NATIONALITIES,A: Annual,2019-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),L07: OTHER NATIONALITIES,A: Annual,2020-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),L07: OTHER NATIONALITIES,A: Annual,2021-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),L07: OTHER NATIONALITIES,A: Annual,2022-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),L08: STATELESS PERSONS AND FOREIGNERS WITH NO INDICATION OF NATIONALITY,A: Annual,2011-02-01,247,,,,,,0: Zero
+LU1:DF_B1113(1.0),L08: STATELESS PERSONS AND FOREIGNERS WITH NO INDICATION OF NATIONALITY,A: Annual,2012-01-01,266,,,,,,0: Zero
+LU1:DF_B1113(1.0),L08: STATELESS PERSONS AND FOREIGNERS WITH NO INDICATION OF NATIONALITY,A: Annual,2013-01-01,288,,,,,,0: Zero
+LU1:DF_B1113(1.0),L08: STATELESS PERSONS AND FOREIGNERS WITH NO INDICATION OF NATIONALITY,A: Annual,2014-01-01,329,,,,,,0: Zero
+LU1:DF_B1113(1.0),L08: STATELESS PERSONS AND FOREIGNERS WITH NO INDICATION OF NATIONALITY,A: Annual,2015-01-01,331,,,,,,0: Zero
+LU1:DF_B1113(1.0),L08: STATELESS PERSONS AND FOREIGNERS WITH NO INDICATION OF NATIONALITY,A: Annual,2016-01-01,361,,,,,,0: Zero
+LU1:DF_B1113(1.0),L08: STATELESS PERSONS AND FOREIGNERS WITH NO INDICATION OF NATIONALITY,A: Annual,2017-01-01,415,,,,,,0: Zero
+LU1:DF_B1113(1.0),L08: STATELESS PERSONS AND FOREIGNERS WITH NO INDICATION OF NATIONALITY,A: Annual,2018-01-01,400,,,,,,0: Zero
+LU1:DF_B1113(1.0),L08: STATELESS PERSONS AND FOREIGNERS WITH NO INDICATION OF NATIONALITY,A: Annual,2019-01-01,384,,,,,,0: Zero
+LU1:DF_B1113(1.0),L08: STATELESS PERSONS AND FOREIGNERS WITH NO INDICATION OF NATIONALITY,A: Annual,2020-01-01,379,,,,,,0: Zero
+LU1:DF_B1113(1.0),L08: STATELESS PERSONS AND FOREIGNERS WITH NO INDICATION OF NATIONALITY,A: Annual,2021-01-01,372,,,,,,0: Zero
+LU1:DF_B1113(1.0),L08: STATELESS PERSONS AND FOREIGNERS WITH NO INDICATION OF NATIONALITY,A: Annual,2022-01-01,344,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL13: Hungary,A: Annual,2011-02-01,935,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL13: Hungary,A: Annual,2012-01-01,1038,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL13: Hungary,A: Annual,2013-01-01,1130,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL13: Hungary,A: Annual,2014-01-01,1310,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL13: Hungary,A: Annual,2015-01-01,1444,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL13: Hungary,A: Annual,2016-01-01,1548,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL13: Hungary,A: Annual,2017-01-01,1650,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL13: Hungary,A: Annual,2018-01-01,1828,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL13: Hungary,A: Annual,2019-01-01,1880,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL13: Hungary,A: Annual,2020-01-01,1851,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL13: Hungary,A: Annual,2021-01-01,1873,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL13: Hungary,A: Annual,2022-01-01,1822,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL14: Ireland,A: Annual,2011-02-01,1325,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL14: Ireland,A: Annual,2012-01-01,1419,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL14: Ireland,A: Annual,2013-01-01,1489,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL14: Ireland,A: Annual,2014-01-01,1527,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL14: Ireland,A: Annual,2015-01-01,1604,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL14: Ireland,A: Annual,2016-01-01,1689,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL14: Ireland,A: Annual,2017-01-01,1762,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL14: Ireland,A: Annual,2018-01-01,1865,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL14: Ireland,A: Annual,2019-01-01,1909,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL14: Ireland,A: Annual,2020-01-01,2027,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL14: Ireland,A: Annual,2021-01-01,2261,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL14: Ireland,A: Annual,2022-01-01,2369,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL41: Norway,A: Annual,2011-02-01,230,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL41: Norway,A: Annual,2012-01-01,224,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL41: Norway,A: Annual,2013-01-01,239,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL41: Norway,A: Annual,2014-01-01,251,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL41: Norway,A: Annual,2015-01-01,257,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL41: Norway,A: Annual,2016-01-01,268,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL41: Norway,A: Annual,2017-01-01,264,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL41: Norway,A: Annual,2018-01-01,256,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL41: Norway,A: Annual,2019-01-01,262,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL41: Norway,A: Annual,2020-01-01,265,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL41: Norway,A: Annual,2021-01-01,246,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL41: Norway,A: Annual,2022-01-01,249,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL014: Comoros,A: Annual,2011-02-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL014: Comoros,A: Annual,2012-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL014: Comoros,A: Annual,2013-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL014: Comoros,A: Annual,2014-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL014: Comoros,A: Annual,2015-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL014: Comoros,A: Annual,2016-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL014: Comoros,A: Annual,2017-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL014: Comoros,A: Annual,2018-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL014: Comoros,A: Annual,2019-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL014: Comoros,A: Annual,2020-01-01,10,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL014: Comoros,A: Annual,2021-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL014: Comoros,A: Annual,2022-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL028: Lesotho,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL028: Lesotho,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL028: Lesotho,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL028: Lesotho,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL028: Lesotho,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL028: Lesotho,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL028: Lesotho,A: Annual,2017-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL028: Lesotho,A: Annual,2018-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL028: Lesotho,A: Annual,2019-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL028: Lesotho,A: Annual,2020-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL028: Lesotho,A: Annual,2021-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL028: Lesotho,A: Annual,2022-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL042: Central African Republic,A: Annual,2011-02-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL042: Central African Republic,A: Annual,2012-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL042: Central African Republic,A: Annual,2013-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL042: Central African Republic,A: Annual,2014-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL042: Central African Republic,A: Annual,2015-01-01,5,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL042: Central African Republic,A: Annual,2016-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL042: Central African Republic,A: Annual,2017-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL042: Central African Republic,A: Annual,2018-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL042: Central African Republic,A: Annual,2019-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL042: Central African Republic,A: Annual,2020-01-01,11,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL042: Central African Republic,A: Annual,2021-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL042: Central African Republic,A: Annual,2022-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL056: Zambia,A: Annual,2011-02-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL056: Zambia,A: Annual,2012-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL056: Zambia,A: Annual,2013-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL056: Zambia,A: Annual,2014-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL056: Zambia,A: Annual,2015-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL056: Zambia,A: Annual,2016-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL056: Zambia,A: Annual,2017-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL056: Zambia,A: Annual,2018-01-01,9,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL056: Zambia,A: Annual,2019-01-01,8,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL056: Zambia,A: Annual,2020-01-01,7,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL056: Zambia,A: Annual,2021-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL056: Zambia,A: Annual,2022-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL55: Cuba,A: Annual,2011-02-01,65,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL55: Cuba,A: Annual,2012-01-01,68,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL55: Cuba,A: Annual,2013-01-01,72,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL55: Cuba,A: Annual,2014-01-01,78,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL55: Cuba,A: Annual,2015-01-01,82,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL55: Cuba,A: Annual,2016-01-01,85,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL55: Cuba,A: Annual,2017-01-01,88,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL55: Cuba,A: Annual,2018-01-01,88,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL55: Cuba,A: Annual,2019-01-01,91,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL55: Cuba,A: Annual,2020-01-01,101,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL55: Cuba,A: Annual,2021-01-01,108,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL55: Cuba,A: Annual,2022-01-01,109,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL69: Saint Vincent and the Grenadines,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL69: Saint Vincent and the Grenadines,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL69: Saint Vincent and the Grenadines,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL69: Saint Vincent and the Grenadines,A: Annual,2014-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL69: Saint Vincent and the Grenadines,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL69: Saint Vincent and the Grenadines,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL69: Saint Vincent and the Grenadines,A: Annual,2017-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL69: Saint Vincent and the Grenadines,A: Annual,2018-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL69: Saint Vincent and the Grenadines,A: Annual,2019-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL69: Saint Vincent and the Grenadines,A: Annual,2020-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SSL69: Saint Vincent and the Grenadines,A: Annual,2021-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SSL69: Saint Vincent and the Grenadines,A: Annual,2022-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL083: Kirghizia,A: Annual,2011-02-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL083: Kirghizia,A: Annual,2012-01-01,20,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL083: Kirghizia,A: Annual,2013-01-01,19,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL083: Kirghizia,A: Annual,2014-01-01,15,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL083: Kirghizia,A: Annual,2015-01-01,17,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL083: Kirghizia,A: Annual,2016-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL083: Kirghizia,A: Annual,2017-01-01,12,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL083: Kirghizia,A: Annual,2018-01-01,13,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL083: Kirghizia,A: Annual,2019-01-01,14,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL083: Kirghizia,A: Annual,2020-01-01,23,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL083: Kirghizia,A: Annual,2021-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL083: Kirghizia,A: Annual,2022-01-01,21,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL084: Kuwait,A: Annual,2011-02-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL084: Kuwait,A: Annual,2012-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL084: Kuwait,A: Annual,2013-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL084: Kuwait,A: Annual,2014-01-01,2,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL084: Kuwait,A: Annual,2015-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL084: Kuwait,A: Annual,2016-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL084: Kuwait,A: Annual,2017-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL084: Kuwait,A: Annual,2018-01-01,3,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL084: Kuwait,A: Annual,2019-01-01,6,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL084: Kuwait,A: Annual,2020-01-01,4,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL084: Kuwait,A: Annual,2021-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL084: Kuwait,A: Annual,2022-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL111: Vanuatu,A: Annual,2011-02-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL111: Vanuatu,A: Annual,2012-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL111: Vanuatu,A: Annual,2013-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL111: Vanuatu,A: Annual,2014-01-01,1,,,,,,0: Zero
+LU1:DF_B1113(1.0),SL111: Vanuatu,A: Annual,2015-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL111: Vanuatu,A: Annual,2016-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL111: Vanuatu,A: Annual,2017-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL111: Vanuatu,A: Annual,2018-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL111: Vanuatu,A: Annual,2019-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL111: Vanuatu,A: Annual,2020-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL111: Vanuatu,A: Annual,2021-01-01,,,,,,-: nil,0: Zero
+LU1:DF_B1113(1.0),SL111: Vanuatu,A: Annual,2022-01-01,,,,,,-: nil,0: Zero
