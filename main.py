@@ -4,7 +4,7 @@ Main module.
 from os.path import exists
 
 from data_processing import process_source
-from visualisation import visualize_matplotlib
+from visualization import visualize_matplotlib
 
 
 def main() -> None:

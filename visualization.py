@@ -1,5 +1,5 @@
 """
-Data visualisation module.
+Data visualization module.
 """
 import matplotlib.pyplot as plt
 
