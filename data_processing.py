@@ -9,6 +9,14 @@ from datetime import datetime
 
 
 def process_source(file_in: str, file_out: str = None) -> pd.DataFrame:
+    """
+    Initial loading of a data source.
+
+    :param file_in: Source file for processing.
+    :param file_out: Output file. If not specified, file_in is expected to be preprocessed.
+
+    :return: Resulting dataframe.
+    """
     dt_start = datetime.now()
     if file_out:
         print(f'{dt_start}: Conversion of the source file started...')
@@ -48,8 +56,23 @@ def process_source(file_in: str, file_out: str = None) -> pd.DataFrame:
             dtype={
                 'Nationality': str,
                 'Year': np.int16,
-                'Qty': np.float64,
+                'Qty': np.int64,
             }
         )
 
     return result_data
+
+
+def dataframe_filter(data: pd.DataFrame, year: int = datetime.now().year, qty_margin: int = 0) -> pd.DataFrame:
+    """
+    Filter the dataframe with the provided parameters.
+
+    :param data: Source dataframe.
+    :param year: Year.
+    :param qty_margin: Minimum quantity. Lesser quantities are merged into one.
+
+    :return: Filtered dataframe.
+    """
+    data_filtered = data.loc[data.Year == year]
+    data_filtered.loc[data_filtered.Qty < qty_margin, 'Nationality'] = 'Other nationalities'
+    return data_filtered.groupby('Nationality')['Qty'].sum().reset_index()

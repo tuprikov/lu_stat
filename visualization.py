@@ -4,34 +4,54 @@ Data visualization module.
 import matplotlib.pyplot as plt
 
 from dash import Dash
+from dash_bootstrap_components.themes import BOOTSTRAP
+from pandas import DataFrame
+
+from components.layout import create_layout
 
 
-def visualize_matplotlib(lu_data: "pd.DataFrame") -> None:
+def visualize(method: str, data: DataFrame) -> None:
+    """
+    Entry point to select a visualization strategy.
+
+    :param method: Visualization method name.
+    :param data: Pandas dataframe to visualize.
+    """
+    if method in visualization_functions:
+        visualization_functions.get(method)(data)
+    raise NotImplementedError
+
+
+def visualize_matplotlib(data: DataFrame) -> None:
     """
     Visualization using Matplotlib.
 
-    :param lu_data: Pandas dataframe.
-    :return:
+    :param data: Pandas dataframe.
     """
-    lu_data_2022 = lu_data.loc[lu_data.Year == 2022]
-    qty_margin = 6500
-    qty_margin_2 = 1900
-    lu_data_2022_minor = lu_data_2022[lu_data_2022.Qty < qty_margin].copy()
-    lu_data_2022.loc[lu_data_2022.Qty < qty_margin, 'Nationality'] = 'Minor nationalities'
-    lu_data_2022 = lu_data_2022.groupby('Nationality')['Qty'].sum().reset_index()
+    fig, ax1 = plt.subplots(1, 1, figsize=(10, 8))
+    ax1_labels = [f'{i}: {j}' for i, j in list(zip(data.Nationality, data.Qty))]
+    ax1.pie(data.Qty, labels=ax1_labels, autopct='%1.1f%%', textprops={'fontsize': 9})
+    ax1.title.set_text('Nationalities of Luxembourg')
 
-    lu_data_2022_minor.loc[lu_data_2022_minor.Qty < qty_margin_2, 'Nationality'] = \
-        f'Minor nationalities (less than {qty_margin_2} people)'
-    lu_data_2022_minor = lu_data_2022_minor.groupby('Nationality')['Qty'].sum().reset_index()
-
-    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(10, 8))
-    ax1_labels = [f'{i}: {j}' for i, j in list(zip(lu_data_2022.Nationality, lu_data_2022.Qty))]
-    ax1.pie(lu_data_2022.Qty, labels=ax1_labels, autopct='%1.1f%%', textprops={'fontsize': 9})
-    ax1.title.set_text('Major nationalities')
-
-    ax2_labels = [f'{i}: {j}' for i, j in list(zip(lu_data_2022_minor.Nationality, lu_data_2022_minor.Qty))]
-    ax2.pie(lu_data_2022_minor.Qty, labels=ax2_labels, textprops={'fontsize': 8})
-    ax2.title.set_text(f'Minor nationalities (less than {qty_margin} people)')
-
-    fig.canvas.manager.set_window_title('Luxembourg statistics')
+    fig.canvas.manager.set_window_title(_TITLE)
     plt.show()
+
+
+def visualize_dash(data: DataFrame) -> None:
+    """
+    Visualize using Dash.
+
+    :param data: Pandas dataframe.
+    """
+    app = Dash(external_stylesheets=[BOOTSTRAP])
+    app.title = _TITLE
+    app.layout = create_layout(app, data)
+    app.run()
+
+
+visualization_functions = {
+    'matplotlib': visualize_matplotlib,
+    'dash': visualize_dash,
+}
+
+_TITLE = 'Luxembourg statistics'
