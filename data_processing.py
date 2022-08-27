@@ -73,16 +73,14 @@ def process_source(file_in: str, file_out: str = None) -> pd.DataFrame:
     return result_data
 
 
-def dataframe_filter(data: pd.DataFrame, year: int = datetime.now().year, qty_margin: int = 0) -> pd.DataFrame:
+def dataframe_filter(data: pd.DataFrame, qty_margin: int = 0) -> pd.DataFrame:
     """
     Filter the dataframe with the provided parameters.
 
     :param data: Source dataframe.
-    :param year: Year.
     :param qty_margin: Minimum quantity. Lesser quantities are merged into one.
 
     :return: Filtered dataframe.
     """
-    data_filtered = data.loc[data.Year == year]
-    data_filtered.loc[data_filtered.Qty < qty_margin, 'Nationality'] = 'Other nationalities'
-    return data_filtered.groupby('Nationality')['Qty'].sum().reset_index()
+    data.loc[data.Qty < qty_margin, 'Nationality'] = 'Other nationalities'
+    return data.groupby(['Year', 'Nationality'])['Qty'].sum().reset_index()
