@@ -1,6 +1,8 @@
 """
 Main page layout.
 """
+import dash_bootstrap_components as dbc
+
 from dash import Dash, html
 from pandas import DataFrame
 
@@ -18,9 +20,19 @@ def create_layout(app: Dash, data: DataFrame) -> html.Div:
     return html.Div(
         className='app-div',
         children=[
-            html.H1(app.title),
-            html.Hr(),
-            year_dropdown.render(app, data.Year.unique()[::-1].tolist()),
-            pie_chart.render(app, data)
+            dbc.Row(
+                dbc.Col(
+                    html.Div(
+                        children=[
+                            html.H1(app.title),
+                            html.Hr(),
+                            year_dropdown.render(app, data.Year.unique()[::-1].tolist()),
+                            pie_chart.render(app, data)
+                        ]
+                    ),
+                    width=4
+                ),
+                justify='center'
+            )
         ]
     )
